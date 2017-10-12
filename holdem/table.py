@@ -294,9 +294,10 @@ class Table(object):
             self._totalpot = 0
         else:
             # compute hand ranks
+            print("Board: ", Card.print_pretty_cards(self.community))
             for player in players:
                 player.handrank = self._evaluator.evaluate(player.hand, self.community)
-
+                print("Player: {}".format(player.playerID), Card.print_pretty_cards(player.hand))
             # trim side_pots to only include the non-empty side pots
             temp_pots = [pot for pot in self._side_pots if pot>0]
 
