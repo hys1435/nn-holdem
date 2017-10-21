@@ -8,8 +8,9 @@ from deuces.deuces import Card, Deck, Evaluator
 from .player import Player
 
 class Table(object):
-    BLIND_INCREMENTS = [[10,25],[25,50],[50,100],[75,150],[100,200],[150,300],[200,400],[300,600],[400,800],[500,10000],[600,1200],[800,1600],[1000,2000]]
-
+    #BLIND_INCREMENTS = [[10,25],[25,50],[50,100],[75,150],[100,200],[150,300],[200,400],[300,600],[400,800],[500,10000],[600,1200],[800,1600],[1000,2000]]
+    BLIND_INCREMENTS = [[3, 6], [25, 50], [50, 100], [75, 150], [100, 200], [150, 300], [200, 400], [300, 600],
+                        [400, 800], [500, 10000], [600, 1200], [800, 1600], [1000, 2000]]
     def __init__(self, seats = 8, quiet = False, training = False):
         self._blind_index = 0
         [self._smallblind, self._bigblind] = Table.BLIND_INCREMENTS[0]
@@ -73,8 +74,8 @@ class Table(object):
                         print('Player ',p.playerID, ' stack size: ', p.stack)
 
             # increment blinds every 15 hands (based on avg hands/hour of 30)
-            if (self._number_of_hands % 15) == 0 and self._number_of_hands < 60:
-                self.increment_blinds()
+            # if (self._number_of_hands % 15) == 0 and self._number_of_hands < 60:
+            #    self.increment_blinds()
 
 
             if len([p for p in players if p.playing_hand]) == 1:
@@ -121,7 +122,7 @@ class Table(object):
                     player = self._next(players, player)
                     continue
                 # print('requesting move from ',player.playerID)
-                move = player.server.player_move(self.output_state(player))
+                move = player.server.player_move(self.output_state(player)) # MAKE PLAYER MOVE!
 
                 if move[0] == 'call':
                     self.player_bet(player, self._tocall)
