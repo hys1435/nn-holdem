@@ -1,0 +1,5071 @@
+PokerStars Hand #173944439336:  Hold'em Limit ($3/$6 USD) - 2017/08/05 7:28:16 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 2: NewRocker ($115 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+NewRocker: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+NewRocker: calls $3
+*** FLOP *** [6c 2s 4d]
+VolkovDmitri: bets $3
+NewRocker: calls $3
+*** TURN *** [6c 2s 4d] [3s]
+VolkovDmitri: bets $6
+NewRocker: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+NewRocker: calls $6
+*** RIVER *** [6c 2s 4d 3s] [Qd]
+VolkovDmitri: checks
+NewRocker: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to NewRocker
+NewRocker collected $59.50 from pot
+NewRocker: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 2s 4d 3s Qd]
+Seat 2: NewRocker (button) (small blind) collected ($59.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #173944461695:  Hold'em Limit ($3/$6 USD) - 2017/08/05 7:29:09 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 2: NewRocker ($141.50 in chips)
+Seat 4: VolkovDmitri ($123 in chips)
+NewRocker: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: calls $2
+VolkovDmitri: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [Ts 6h 3d]
+VolkovDmitri: bets $3
+NewRocker: calls $3
+*** TURN *** [Ts 6h 3d] [Kd]
+VolkovDmitri: bets $6
+NewRocker: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [Ts 6h 3d Kd] [Kh]
+VolkovDmitri: checks
+NewRocker: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [Ks 7d] (three of a kind, Kings)
+VolkovDmitri: mucks hand
+NewRocker collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ts 6h 3d Kd Kh]
+Seat 2: NewRocker (button) (small blind) showed [Ks 7d] and won ($53.50) with three of a kind, Kings
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #173944457097:  Hold'em Limit ($3/$6 USD) - 2017/08/05 7:28:58 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 2: NewRocker ($144.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+NewRocker: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: NewRocker (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #173944471923:  Hold'em Limit ($3/$6 USD) - 2017/08/05 7:29:33 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 2: NewRocker ($168 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [Jd 4c Qc]
+NewRocker: checks
+VolkovDmitri: bets $3
+NewRocker: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 4c Qc]
+Seat 2: NewRocker (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+
+
+PokerStars Hand #147271519748:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:31:27 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($86.50 in chips)
+Seat 2: xitrec321 ($47.87 in chips)
+MAGER911: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [7h 6d Kd]
+xitrec321: checks
+MAGER911: bets $3
+xitrec321: calls $3
+*** TURN *** [7h 6d Kd] [Jc]
+xitrec321: checks
+MAGER911: bets $6
+xitrec321: calls $6
+*** RIVER *** [7h 6d Kd Jc] [4d]
+xitrec321: checks
+MAGER911: checks
+*** SHOW DOWN ***
+xitrec321: shows [6s Tc] (a pair of Sixes)
+MAGER911: shows [9h Js] (a pair of Jacks)
+MAGER911 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h 6d Kd Jc 4d]
+Seat 1: MAGER911 (button) (small blind) showed [9h Js] and won ($29.50) with a pair of Jacks
+Seat 2: xitrec321 (big blind) showed [6s Tc] and lost with a pair of Sixes
+
+
+PokerStars Hand #147271506537:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:31:15 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($89.50 in chips)
+Seat 2: xitrec321 ($44.87 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: raises $3 to $6
+MAGER911: folds
+Uncalled bet ($3) returned to xitrec321
+xitrec321 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: MAGER911 (big blind) folded before Flop
+Seat 2: xitrec321 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147271601335:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:32:39 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($94.52 in chips)
+Seat 2: xitrec321 ($38.37 in chips)
+MAGER911: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: folds
+Uncalled bet ($2) returned to xitrec321
+xitrec321 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MAGER911 (button) (small blind) folded before Flop
+Seat 2: xitrec321 (big blind) collected ($2)
+
+
+PokerStars Hand #147271579757:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:32:20 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($83 in chips)
+Seat 2: xitrec321 ($50.37 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: raises $3 to $6
+MAGER911: calls $3
+*** FLOP *** [8s 5c 5s]
+MAGER911: checks
+xitrec321: checks
+*** TURN *** [8s 5c 5s] [6c]
+MAGER911: checks
+xitrec321: checks
+*** RIVER *** [8s 5c 5s 6c] [6s]
+MAGER911: bets $6
+xitrec321: calls $6
+*** SHOW DOWN ***
+MAGER911: shows [8c Jd] (two pair, Eights and Sixes)
+xitrec321: mucks hand
+MAGER911 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8s 5c 5s 6c 6s]
+Seat 1: MAGER911 (big blind) showed [8c Jd] and won ($23.52) with two pair, Eights and Sixes
+Seat 2: xitrec321 (button) (small blind) mucked
+
+
+PokerStars Hand #147271552748:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:31:56 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($98 in chips)
+Seat 2: xitrec321 ($35.87 in chips)
+MAGER911: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [3c Ac 8h]
+xitrec321: checks
+MAGER911: bets $3
+xitrec321: calls $3
+*** TURN *** [3c Ac 8h] [Ts]
+xitrec321: checks
+MAGER911: checks
+*** RIVER *** [3c Ac 8h Ts] [Qh]
+xitrec321: bets $6
+MAGER911: calls $6
+*** SHOW DOWN ***
+xitrec321: shows [8s 4d] (a pair of Eights)
+MAGER911: mucks hand
+xitrec321 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c Ac 8h Ts Qh]
+Seat 1: MAGER911 (button) (small blind) mucked
+Seat 2: xitrec321 (big blind) showed [8s 4d] and won ($29.50) with a pair of Eights
+
+
+PokerStars Hand #147271545878:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:31:50 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($101 in chips)
+Seat 2: xitrec321 ($32.87 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: raises $3 to $6
+MAGER911: folds
+Uncalled bet ($3) returned to xitrec321
+xitrec321 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: MAGER911 (big blind) folded before Flop
+Seat 2: xitrec321 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147271669072:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:33:39 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($100.04 in chips)
+Seat 2: xitrec321 ($32.13 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: raises $3 to $6
+MAGER911: calls $3
+*** FLOP *** [Td Qh 4s]
+MAGER911: checks
+xitrec321: bets $3
+MAGER911: folds
+Uncalled bet ($3) returned to xitrec321
+xitrec321 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td Qh 4s]
+Seat 1: MAGER911 (big blind) folded on the Flop
+Seat 2: xitrec321 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147271653441:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:33:25 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($94.28 in chips)
+Seat 2: xitrec321 ($38.13 in chips)
+MAGER911: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [5h 9c 3h]
+xitrec321: checks
+MAGER911: bets $3
+xitrec321: folds
+Uncalled bet ($3) returned to MAGER911
+MAGER911 collected $11.76 from pot
+MAGER911: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 9c 3h]
+Seat 1: MAGER911 (button) (small blind) collected ($11.76)
+Seat 2: xitrec321 (big blind) folded on the Flop
+
+
+PokerStars Hand #147271646274:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:33:18 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($93.28 in chips)
+Seat 2: xitrec321 ($39.13 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: folds
+Uncalled bet ($2) returned to MAGER911
+MAGER911 collected $2 from pot
+MAGER911: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MAGER911 (big blind) collected ($2)
+Seat 2: xitrec321 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147271630913:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:33:05 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($87.52 in chips)
+Seat 2: xitrec321 ($45.13 in chips)
+MAGER911: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [Kd 9c Tc]
+xitrec321: checks
+MAGER911: bets $3
+xitrec321: folds
+Uncalled bet ($3) returned to MAGER911
+MAGER911 collected $11.76 from pot
+MAGER911: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 9c Tc]
+Seat 1: MAGER911 (button) (small blind) collected ($11.76)
+Seat 2: xitrec321 (big blind) folded on the Flop
+
+
+PokerStars Hand #147271607857:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:32:45 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($93.52 in chips)
+Seat 2: xitrec321 ($39.37 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: raises $3 to $6
+MAGER911: calls $3
+*** FLOP *** [Th Qc 8h]
+MAGER911: checks
+xitrec321: checks
+*** TURN *** [Th Qc 8h] [2s]
+MAGER911: checks
+xitrec321: bets $6
+MAGER911: folds
+Uncalled bet ($6) returned to xitrec321
+xitrec321 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th Qc 8h 2s]
+Seat 1: MAGER911 (big blind) folded on the Turn
+Seat 2: xitrec321 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147271711679:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:34:16 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($114.54 in chips)
+Seat 2: xitrec321 ($16.89 in chips)
+xitrec321: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: folds
+Uncalled bet ($2) returned to MAGER911
+xitrec321 leaves the table
+MAGER911 collected $2 from pot
+MAGER911: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MAGER911 (big blind) collected ($2)
+Seat 2: xitrec321 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147271684103:  Hold'em Limit ($3/$6 USD) - 2016/01/18 15:33:52 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($94.04 in chips)
+Seat 2: xitrec321 ($37.89 in chips)
+MAGER911: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [8s Js 7s]
+xitrec321: checks
+MAGER911: bets $3
+xitrec321: calls $3
+*** TURN *** [8s Js 7s] [8h]
+xitrec321: checks
+MAGER911: bets $6
+xitrec321: calls $6
+*** RIVER *** [8s Js 7s 8h] [Kd]
+xitrec321: checks
+MAGER911: bets $6
+xitrec321: calls $6
+*** SHOW DOWN ***
+MAGER911: shows [9d 8c] (three of a kind, Eights)
+xitrec321: mucks hand
+MAGER911 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Js 7s 8h Kd]
+Seat 1: MAGER911 (button) (small blind) showed [9d 8c] and won ($41.50) with three of a kind, Eights
+Seat 2: xitrec321 (big blind) mucked
+
+
+
+
+PokerStars Hand #159675143455:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:49:20 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: ajbooomX ($120 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Jd Ad 7c]
+Agrotait: checks
+ajbooomX: checks
+*** TURN *** [Jd Ad 7c] [3s]
+Agrotait: checks
+ajbooomX: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to ajbooomX
+ajbooomX collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Ad 7c 3s]
+Seat 4: Agrotait (big blind) folded on the Turn
+Seat 6: ajbooomX (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159675161315:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:50:28 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($66 in chips)
+Seat 6: ajbooomX ($125.76 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [Qd Qh 2s]
+ajbooomX: checks
+Agrotait: bets $3
+ajbooomX: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Qh 2s]
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+Seat 6: ajbooomX (big blind) folded on the Flop
+
+
+PokerStars Hand #159675173003:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:51:13 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($64.76 in chips)
+Seat 6: ajbooomX ($126.52 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Th Ts 5s]
+Agrotait: checks
+ajbooomX: checks
+*** TURN *** [Th Ts 5s] [3c]
+Agrotait: bets $6
+ajbooomX: calls $6
+*** RIVER *** [Th Ts 5s 3c] [Js]
+Agrotait: bets $6
+ajbooomX: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [6s Ks] (a flush, King high)
+ajbooomX: mucks hand
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th Ts 5s 3c Js]
+Seat 4: Agrotait (big blind) showed [6s Ks] and won ($35.50) with a flush, King high
+Seat 6: ajbooomX (button) (small blind) mucked
+
+
+PokerStars Hand #159675171511:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:51:07 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($65.76 in chips)
+Seat 6: ajbooomX ($125.52 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to ajbooomX
+ajbooomX collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (button) (small blind) folded before Flop
+Seat 6: ajbooomX (big blind) collected ($2)
+
+
+PokerStars Hand #159675165073:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:50:43 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($71.76 in chips)
+Seat 6: ajbooomX ($119.76 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [4h 7c Ac]
+Agrotait: checks
+ajbooomX: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to ajbooomX
+ajbooomX collected $11.76 from pot
+ajbooomX: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 7c Ac]
+Seat 4: Agrotait (big blind) folded on the Flop
+Seat 6: ajbooomX (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159675206251:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:53:19 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($85.02 in chips)
+Seat 6: ajbooomX ($105.52 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [5d Ad 9s]
+ajbooomX: checks
+Agrotait: bets $3
+ajbooomX: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d Ad 9s]
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+Seat 6: ajbooomX (big blind) folded on the Flop
+
+
+PokerStars Hand #159675204208:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:53:12 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($88.02 in chips)
+Seat 6: ajbooomX ($102.52 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to ajbooomX
+ajbooomX collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Agrotait (big blind) folded before Flop
+Seat 6: ajbooomX (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159675194289:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:52:34 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($82.26 in chips)
+Seat 6: ajbooomX ($108.52 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [Jd 9d 5h]
+ajbooomX: checks
+Agrotait: bets $3
+ajbooomX: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 9d 5h]
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+Seat 6: ajbooomX (big blind) folded on the Flop
+
+
+PokerStars Hand #159675213089:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:53:46 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($90.78 in chips)
+Seat 6: ajbooomX ($99.52 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to ajbooomX
+ajbooomX collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Agrotait (big blind) folded before Flop
+Seat 6: ajbooomX (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159675217712:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:54:04 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($87.78 in chips)
+Seat 6: ajbooomX ($102.52 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [2c 5s Qd]
+ajbooomX: bets $3
+Agrotait: calls $3
+*** TURN *** [2c 5s Qd] [7h]
+ajbooomX: bets $6
+Agrotait: calls $6
+*** RIVER *** [2c 5s Qd 7h] [Kc]
+ajbooomX: bets $6
+Agrotait: raises $6 to $12
+ajbooomX: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $47.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 5s Qd 7h Kc]
+Seat 4: Agrotait (button) (small blind) collected ($47.50)
+Seat 6: ajbooomX (big blind) folded on the River
+
+
+PokerStars Hand #159675234820:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:55:09 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($111.28 in chips)
+Seat 6: ajbooomX ($78.52 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: raises $3 to $9
+ajbooomX: raises $3 to $12
+Betting is capped
+Agrotait: calls $3
+*** FLOP *** [7h 6s Jc]
+Agrotait: checks
+ajbooomX: bets $3
+Agrotait: calls $3
+*** TURN *** [7h 6s Jc] [Qh]
+Agrotait: checks
+ajbooomX: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to ajbooomX
+ajbooomX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h 6s Jc Qh]
+Seat 4: Agrotait (big blind) folded on the Turn
+Seat 6: ajbooomX (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #159675239576:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:55:30 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($96.28 in chips)
+Seat 6: ajbooomX ($93.02 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [4d 5h Ad]
+ajbooomX: checks
+Agrotait: bets $3
+ajbooomX: calls $3
+*** TURN *** [4d 5h Ad] [2s]
+ajbooomX: checks
+Agrotait: bets $6
+ajbooomX: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [4d 5h Ad 2s] [Qs]
+ajbooomX: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+ajbooomX: shows [3s Jh] (a straight, Ace to Five)
+Agrotait: mucks hand
+ajbooomX collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 5h Ad 2s Qs]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: ajbooomX (big blind) showed [3s Jh] and won ($53.50) with a straight, Ace to Five
+
+
+PokerStars Hand #159675261991:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:57:05 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: ajbooomX ($131.04 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [Qs 4d 6c]
+ajbooomX: checks
+Agrotait: checks
+*** TURN *** [Qs 4d 6c] [3h]
+ajbooomX: bets $6
+Agrotait: calls $6
+*** RIVER *** [Qs 4d 6c 3h] [6d]
+ajbooomX: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+ajbooomX: shows [6h 4c] (a full house, Sixes full of Fours)
+Agrotait: mucks hand
+ajbooomX collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qs 4d 6c 3h 6d]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: ajbooomX (big blind) showed [6h 4c] and won ($35.50) with a full house, Sixes full of Fours
+
+
+PokerStars Hand #159675248363:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:56:07 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($69.28 in chips)
+Seat 6: ajbooomX ($119.52 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ts 3c Jc]
+Agrotait: checks
+ajbooomX: checks
+*** TURN *** [Ts 3c Jc] [5h]
+Agrotait: checks
+ajbooomX: bets $6
+Agrotait: calls $6
+*** RIVER *** [Ts 3c Jc 5h] [Qs]
+Agrotait: checks
+ajbooomX: checks
+*** SHOW DOWN ***
+Agrotait: shows [5c As] (a pair of Fives)
+ajbooomX: shows [Th 7s] (a pair of Tens)
+ajbooomX collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ts 3c Jc 5h Qs]
+Seat 4: Agrotait (big blind) showed [5c As] and lost with a pair of Fives
+Seat 6: ajbooomX (button) (small blind) showed [Th 7s] and won ($23.52) with a pair of Tens
+
+
+PokerStars Hand #159675274054:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:57:55 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: ajbooomX ($148.54 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Kc 4s Ac]
+Agrotait: checks
+ajbooomX: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to ajbooomX
+ajbooomX collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 4s Ac]
+Seat 4: Agrotait (big blind) folded on the Flop
+Seat 6: ajbooomX (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159675294916:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:59:23 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: ajbooomX ($177.80 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [4d 5h Kc]
+Agrotait: bets $3
+ajbooomX: raises $3 to $6
+Agrotait: raises $3 to $9
+ajbooomX: calls $3
+*** TURN *** [4d 5h Kc] [7d]
+Agrotait: bets $6
+ajbooomX: calls $6
+*** RIVER *** [4d 5h Kc 7d] [Qh]
+Agrotait: bets $6
+ajbooomX: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [7c Kd] (two pair, Kings and Sevens)
+ajbooomX: mucks hand
+Agrotait collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 5h Kc 7d Qh]
+Seat 4: Agrotait (big blind) showed [7c Kd] and won ($53.50) with two pair, Kings and Sevens
+Seat 6: ajbooomX (button) (small blind) mucked
+
+
+PokerStars Hand #159675281056:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:58:24 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($66 in chips)
+Seat 6: ajbooomX ($154.30 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [5d 2h 2d]
+ajbooomX: checks
+Agrotait: bets $3
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [5d 2h 2d] [Kd]
+ajbooomX: bets $6
+Agrotait: calls $6
+*** RIVER *** [5d 2h 2d Kd] [Kc]
+ajbooomX: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+ajbooomX: shows [2s Js] (a full house, Deuces full of Kings)
+Agrotait: mucks hand
+ajbooomX collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 2h 2d Kd Kc]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: ajbooomX (big blind) showed [2s Js] and won ($47.50) with a full house, Deuces full of Kings
+
+
+PokerStars Hand #159675303741:  Hold'em Limit ($3/$6 USD) - 2016/10/09 2:59:59 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($98.50 in chips)
+Seat 6: ajbooomX ($150.80 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to ajbooomX
+ajbooomX collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (button) (small blind) folded before Flop
+Seat 6: ajbooomX (big blind) collected ($2)
+
+
+PokerStars Hand #159675305257:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:00:06 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($97.50 in chips)
+Seat 6: ajbooomX ($151.80 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+Agrotait: raises $3 to $9
+ajbooomX: calls $3
+*** FLOP *** [Ah Js Ks]
+Agrotait: bets $3
+ajbooomX: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ah Js Ks] [9d]
+Agrotait: checks
+ajbooomX: bets $6
+Agrotait: calls $6
+*** RIVER *** [Ah Js Ks 9d] [7d]
+Agrotait: checks
+ajbooomX: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+ajbooomX: shows [Tc Qs] (a straight, Ten to Ace)
+Agrotait: mucks hand
+ajbooomX collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ah Js Ks 9d 7d]
+Seat 4: Agrotait (big blind) mucked
+Seat 6: ajbooomX (button) (small blind) showed [Tc Qs] and won ($53.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #159675315065:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:00:45 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($70.50 in chips)
+Seat 6: ajbooomX ($178.30 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [3c Th 7d]
+ajbooomX: checks
+Agrotait: bets $3
+ajbooomX: calls $3
+*** TURN *** [3c Th 7d] [Qs]
+ajbooomX: checks
+Agrotait: checks
+*** RIVER *** [3c Th 7d Qs] [As]
+ajbooomX: checks
+Agrotait: checks
+*** SHOW DOWN ***
+ajbooomX: shows [Jc 3d] (a pair of Threes)
+Agrotait: mucks hand
+ajbooomX collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Th 7d Qs As]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: ajbooomX (big blind) showed [Jc 3d] and won ($17.64) with a pair of Threes
+
+
+PokerStars Hand #159675324936:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:01:23 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($61.50 in chips)
+Seat 6: ajbooomX ($186.94 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: calls $2
+Agrotait: checks
+*** FLOP *** [Qc 8d 6c]
+Agrotait: checks
+ajbooomX: bets $3
+Agrotait: calls $3
+*** TURN *** [Qc 8d 6c] [3d]
+Agrotait: checks
+ajbooomX: checks
+*** RIVER *** [Qc 8d 6c 3d] [7d]
+Agrotait: bets $6
+ajbooomX: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 8d 6c 3d 7d]
+Seat 4: Agrotait (big blind) collected ($11.76)
+Seat 6: ajbooomX (button) (small blind) folded on the River
+
+
+PokerStars Hand #159675338325:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:02:14 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($67.26 in chips)
+Seat 6: ajbooomX ($180.94 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ajbooomX: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [2d 8h 5c]
+ajbooomX: checks
+Agrotait: checks
+*** TURN *** [2d 8h 5c] [6h]
+ajbooomX: checks
+Agrotait: checks
+*** RIVER *** [2d 8h 5c 6h] [Th]
+ajbooomX: checks
+Agrotait: checks
+*** SHOW DOWN ***
+ajbooomX: shows [Kh Ac] (high card Ace)
+Agrotait: mucks hand
+ajbooomX collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 8h 5c 6h Th]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: ajbooomX (big blind) showed [Kh Ac] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #159675349021:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:02:53 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: ajbooomX ($189.58 in chips)
+ajbooomX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+cheeestar198 joins the table at seat #1
+ajbooomX: raises $3 to $6
+Agrotait: raises $3 to $9
+ajbooomX: raises $3 to $12
+Betting is capped
+Agrotait: calls $3
+*** FLOP *** [7s 9h 9c]
+Agrotait: checks
+ajbooomX: bets $3
+Agrotait: calls $3
+*** TURN *** [7s 9h 9c] [5h]
+Agrotait: checks
+ajbooomX: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to ajbooomX
+ajbooomX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 9h 9c 5h]
+Seat 4: Agrotait (big blind) folded on the Turn
+Seat 6: ajbooomX (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #159675363896:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:03:48 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: ajbooomX ($204.08 in chips)
+Agrotait: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5 joins the table at seat #2
+Agrotait: folds
+Uncalled bet ($2) returned to ajbooomX
+byrgyi joins the table at seat #5
+ajbooomX collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (button) (small blind) folded before Flop
+Seat 6: ajbooomX (big blind) collected ($2)
+
+
+PokerStars Hand #159675736778:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:25:50 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($96 in chips)
+Seat 5: byrgyi ($199.92 in chips)
+AA_ILI: posts small blind $1
+sim5sim5: is sitting out
+Agrotait: is sitting out
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+Agrotait leaves the table
+sim5sim5 leaves the table
+Agrotait joins the table at seat #6
+byrgyi: folds
+byrgyi leaves the table
+AA_ILI collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AA_ILI (button) (small blind) collected ($6)
+Seat 5: byrgyi (big blind) folded before Flop
+
+
+PokerStars Hand #159675749841:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:26:35 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($96 in chips)
+Seat 6: Agrotait ($75 in chips)
+AA_ILI: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gb2132 joins the table at seat #3
+AA_ILI: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qd Kc 2d]
+Agrotait: checks
+AA_ILI: bets $3
+Agrotait: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd Kc 2d]
+Seat 1: AA_ILI (button) (small blind) folded on the Flop
+Seat 6: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #159675744263:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:26:16 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($99 in chips)
+Seat 6: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (big blind) collected ($2)
+Seat 6: Agrotait (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159675748039:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:26:29 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($99 in chips)
+Seat 6: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AA_ILI (big blind) folded before Flop
+Seat 6: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159675756650:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:26:59 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($87 in chips)
+Seat 6: Agrotait ($83.64 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Kh 3h 4h]
+AA_ILI: checks
+Agrotait: checks
+*** TURN *** [Kh 3h 4h] [8h]
+AA_ILI: checks
+Agrotait: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 3h 4h 8h]
+Seat 1: AA_ILI (big blind) folded on the Turn
+Seat 6: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159675822772:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:30:44 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($105.26 in chips)
+Seat 6: Agrotait ($98.41 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AA_ILI (big blind) folded before Flop
+Seat 6: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159675833310:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:31:20 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($87.26 in chips)
+Seat 6: Agrotait ($115.91 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (big blind) collected ($2)
+Seat 6: Agrotait (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159675824872:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:30:51 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($102.26 in chips)
+Seat 6: Agrotait ($101.41 in chips)
+AA_ILI: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ah Qh 2h]
+Agrotait: checks
+AA_ILI: bets $3
+Agrotait: calls $3
+*** TURN *** [Ah Qh 2h] [Ac]
+Agrotait: checks
+AA_ILI: bets $6
+Agrotait: calls $6
+*** RIVER *** [Ah Qh 2h Ac] [5h]
+Agrotait: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $29.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah Qh 2h Ac 5h]
+Seat 1: AA_ILI (button) (small blind) folded on the River
+Seat 6: Agrotait (big blind) collected ($29.50)
+
+
+PokerStars Hand #159675834996:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:31:26 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($88.26 in chips)
+Seat 6: Agrotait ($114.91 in chips)
+AA_ILI: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Tc 8s 9h]
+Agrotait: checks
+AA_ILI: bets $3
+Agrotait: calls $3
+*** TURN *** [Tc 8s 9h] [Kd]
+Agrotait: bets $6
+AA_ILI: calls $6
+*** RIVER *** [Tc 8s 9h Kd] [6s]
+Agrotait: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $29.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 8s 9h Kd 6s]
+Seat 1: AA_ILI (button) (small blind) folded on the River
+Seat 6: Agrotait (big blind) collected ($29.50)
+
+
+PokerStars Hand #159675849578:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:32:16 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($67.26 in chips)
+Seat 6: Agrotait ($135.17 in chips)
+AA_ILI: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [6s 3d Ad]
+Agrotait: checks
+AA_ILI: bets $3
+Agrotait: calls $3
+*** TURN *** [6s 3d Ad] [5s]
+Agrotait: checks
+AA_ILI: bets $6
+Agrotait: calls $6
+*** RIVER *** [6s 3d Ad 5s] [Th]
+Agrotait: checks
+AA_ILI: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [Ah 5d] (two pair, Aces and Fives)
+Agrotait: mucks hand
+AA_ILI collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s 3d Ad 5s Th]
+Seat 1: AA_ILI (button) (small blind) showed [Ah 5d] and won ($41.50) with two pair, Aces and Fives
+Seat 6: Agrotait (big blind) mucked
+
+
+PokerStars Hand #159675858106:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:32:45 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($87.76 in chips)
+Seat 6: Agrotait ($114.17 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AA_ILI (big blind) folded before Flop
+Seat 6: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159675845036:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:32:00 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($73.26 in chips)
+Seat 6: Agrotait ($129.41 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [2s 9s Ad]
+AA_ILI: checks
+Agrotait: bets $3
+AA_ILI: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 9s Ad]
+Seat 1: AA_ILI (big blind) folded on the Flop
+Seat 6: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159675860013:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:32:51 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($84.76 in chips)
+Seat 6: Agrotait ($117.17 in chips)
+AA_ILI: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Tc 9s 4c]
+Agrotait: checks
+AA_ILI: bets $3
+Agrotait: calls $3
+*** TURN *** [Tc 9s 4c] [9c]
+RJF1943 joins the table at seat #2
+Agrotait: checks
+AA_ILI: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 9s 4c 9c]
+Seat 1: AA_ILI (button) (small blind) collected ($17.64)
+Seat 6: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #159675877309:  Hold'em Limit ($3/$6 USD) - 2016/10/09 3:33:50 ET
+Table 'Aaltje' 6-max Seat #6 is the button
+Seat 1: AA_ILI ($93.40 in chips)
+Seat 6: Agrotait ($108.17 in chips)
+Agrotait: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (big blind) collected ($2)
+Seat 6: Agrotait (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159676637708:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:14:40 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 2: dye111 ($62.82 in chips)
+Seat 3: xRauIx ($147.31 in chips)
+dye111: posts small blind $1
+xRauIx: posts big blind $3
+*** HOLE CARDS ***
+dye111: calls $2
+xRauIx: raises $3 to $6
+dye111: calls $3
+*** FLOP *** [4d 8d Qh]
+xRauIx: bets $3
+dye111: raises $3 to $6
+xRauIx: raises $3 to $9
+dye111: calls $3
+*** TURN *** [4d 8d Qh] [3c]
+sim5sim5 leaves the table
+xRauIx: bets $6
+dye111: calls $6
+*** RIVER *** [4d 8d Qh 3c] [5c]
+xRauIx: bets $6
+dye111: calls $6
+*** SHOW DOWN ***
+xRauIx: shows [Qd Ks] (a pair of Queens)
+dye111: mucks hand
+xRauIx collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 8d Qh 3c 5c]
+Seat 2: dye111 (button) (small blind) mucked
+Seat 3: xRauIx (big blind) showed [Qd Ks] and won ($53.50) with a pair of Queens
+
+
+PokerStars Hand #159676627878:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:14:11 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 2: dye111 ($68.82 in chips)
+Seat 3: xRauIx ($141.55 in chips)
+xRauIx: posts small blind $1
+AA_ILI is disconnected
+AA_ILI has timed out while disconnected
+AA_ILI: is sitting out
+dye111: posts big blind $3
+*** HOLE CARDS ***
+xRauIx: raises $3 to $6
+dye111: calls $3
+*** FLOP *** [6h Ah Qs]
+dye111: checks
+xRauIx: bets $3
+dye111: folds
+Uncalled bet ($3) returned to xRauIx
+xRauIx collected $11.76 from pot
+xRauIx: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Ah Qs]
+Seat 2: dye111 (big blind) folded on the Flop
+Seat 3: xRauIx (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159676645899:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:15:04 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: AA_ILI ($228.90 in chips)
+Seat 3: xRauIx ($173.81 in chips)
+xRauIx: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+xRauIx: raises $3 to $6
+dye111 leaves the table
+AA_ILI: calls $3
+*** FLOP *** [As Jh 6d]
+AA_ILI: checks
+mishkamoya joins the table at seat #2
+xRauIx: bets $3
+AA_ILI: raises $3 to $6
+xRauIx: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Jh 6d]
+Seat 1: AA_ILI (big blind) collected ($17.64)
+Seat 3: xRauIx (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #159676659209:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:15:43 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($226.54 in chips)
+Seat 2: mishkamoya ($70.90 in chips)
+AA_ILI: posts small blind $1
+mishkamoya: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+mishkamoya: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [6h 8s 5s]
+mishkamoya: checks
+AA_ILI: checks
+*** TURN *** [6h 8s 5s] [Th]
+mishkamoya: checks
+AA_ILI: bets $6
+mishkamoya: raises $6 to $12
+AA_ILI: calls $6
+*** RIVER *** [6h 8s 5s Th] [9d]
+mishkamoya: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to mishkamoya
+mishkamoya collected $35.50 from pot
+mishkamoya: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 8s 5s Th 9d]
+Seat 1: AA_ILI (button) (small blind) folded on the River
+Seat 2: mishkamoya (big blind) collected ($35.50)
+
+
+PokerStars Hand #159676657600:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:15:38 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($225.54 in chips)
+Seat 2: mishkamoya ($71.90 in chips)
+mishkamoya: posts small blind $1
+xRauIx: is sitting out
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (big blind) collected ($2)
+Seat 2: mishkamoya (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159676677364:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:16:36 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($196.42 in chips)
+Seat 2: mishkamoya ($99.90 in chips)
+mishkamoya: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (big blind) collected ($2)
+Seat 2: mishkamoya (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159676680640:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:16:46 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($197.42 in chips)
+Seat 2: mishkamoya ($98.90 in chips)
+AA_ILI: posts small blind $1
+mishkamoya: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+mishkamoya: checks
+*** FLOP *** [Td 9s Ac]
+mishkamoya: checks
+AA_ILI: bets $3
+mishkamoya: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Td 9s Ac]
+Seat 1: AA_ILI (button) (small blind) collected ($5.88)
+Seat 2: mishkamoya (big blind) folded on the Flop
+
+
+PokerStars Hand #159676684721:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:16:58 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($200.30 in chips)
+Seat 2: mishkamoya ($95.90 in chips)
+mishkamoya: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Kh 8h 2d]
+AA_ILI: checks
+mishkamoya: checks
+*** TURN *** [Kh 8h 2d] [9d]
+AA_ILI: checks
+mishkamoya: checks
+*** RIVER *** [Kh 8h 2d 9d] [4h]
+AA_ILI: checks
+mishkamoya: checks
+*** SHOW DOWN ***
+AA_ILI: shows [2s Qs] (a pair of Deuces)
+mishkamoya: mucks hand
+AA_ILI collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 8h 2d 9d 4h]
+Seat 1: AA_ILI (big blind) showed [2s Qs] and won ($11.76) with a pair of Deuces
+Seat 2: mishkamoya (button) (small blind) mucked
+
+
+PokerStars Hand #159676664069:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:15:57 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($208.54 in chips)
+Seat 2: mishkamoya ($88.40 in chips)
+mishkamoya: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [9d 3h 8h]
+AA_ILI: checks
+mishkamoya: bets $3
+AA_ILI: calls $3
+*** TURN *** [9d 3h 8h] [3d]
+AA_ILI: checks
+mishkamoya: bets $6
+AA_ILI: calls $6
+*** RIVER *** [9d 3h 8h 3d] [8c]
+AA_ILI: checks
+mishkamoya: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to mishkamoya
+mishkamoya collected $29.50 from pot
+mishkamoya: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 3h 8h 3d 8c]
+Seat 1: AA_ILI (big blind) folded on the River
+Seat 2: mishkamoya (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #159676695781:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:17:30 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($221.56 in chips)
+Seat 2: mishkamoya ($73.90 in chips)
+AA_ILI: posts small blind $1
+mishkamoya: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+mishkamoya: checks
+*** FLOP *** [5s 8h 7d]
+mishkamoya: checks
+AA_ILI: checks
+*** TURN *** [5s 8h 7d] [4d]
+mishkamoya: checks
+AA_ILI: checks
+*** RIVER *** [5s 8h 7d 4d] [7s]
+mishkamoya: checks
+AA_ILI: checks
+*** SHOW DOWN ***
+mishkamoya: shows [4s Qc] (two pair, Sevens and Fours)
+AA_ILI: mucks hand
+mishkamoya collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5s 8h 7d 4d 7s]
+Seat 1: AA_ILI (button) (small blind) mucked
+Seat 2: mishkamoya (big blind) showed [4s Qc] and won ($5.88) with two pair, Sevens and Fours
+
+
+PokerStars Hand #159676693860:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:17:25 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($220.56 in chips)
+Seat 2: mishkamoya ($74.90 in chips)
+mishkamoya: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (big blind) collected ($2)
+Seat 2: mishkamoya (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159676689106:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:17:11 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($206.06 in chips)
+Seat 2: mishkamoya ($89.90 in chips)
+AA_ILI: posts small blind $1
+mishkamoya: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+mishkamoya: calls $3
+*** FLOP *** [6d 2c 4h]
+mishkamoya: checks
+AA_ILI: bets $3
+mishkamoya: calls $3
+*** TURN *** [6d 2c 4h] [2h]
+mishkamoya: checks
+AA_ILI: bets $6
+mishkamoya: calls $6
+*** RIVER *** [6d 2c 4h 2h] [Jh]
+mishkamoya: checks
+AA_ILI: bets $6
+mishkamoya: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 2c 4h 2h Jh]
+Seat 1: AA_ILI (button) (small blind) collected ($29.50)
+Seat 2: mishkamoya (big blind) folded on the River
+
+
+PokerStars Hand #159676700301:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:17:44 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($218.56 in chips)
+Seat 2: mishkamoya ($76.78 in chips)
+mishkamoya: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Ah Td 5s]
+AA_ILI: checks
+mishkamoya: bets $3
+AA_ILI: calls $3
+*** TURN *** [Ah Td 5s] [4d]
+AA_ILI: checks
+mishkamoya: checks
+*** RIVER *** [Ah Td 5s 4d] [3c]
+AA_ILI: checks
+mishkamoya: bets $6
+Zubrik AnD joins the table at seat #6
+AA_ILI: folds
+Uncalled bet ($6) returned to mishkamoya
+mishkamoya collected $17.64 from pot
+mishkamoya: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Td 5s 4d 3c]
+Seat 1: AA_ILI (big blind) folded on the River
+Seat 2: mishkamoya (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #159676706324:  Hold'em Limit ($3/$6 USD) - 2016/10/09 4:18:01 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($209.56 in chips)
+Seat 2: mishkamoya ($85.42 in chips)
+AA_ILI: posts small blind $1
+mishkamoya: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+mishkamoya: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Td 8d 2h]
+mishkamoya: bets $3
+AA_ILI: calls $3
+*** TURN *** [Td 8d 2h] [9s]
+mishkamoya: checks
+AA_ILI: bets $6
+mishkamoya: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 8d 2h 9s]
+Seat 1: AA_ILI (button) (small blind) collected ($17.64)
+Seat 2: mishkamoya (big blind) folded on the Turn
+
+
+PokerStars Hand #159680239636:  Hold'em Limit ($3/$6 USD) - 2016/10/09 6:42:39 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 2: Apanage ($99.66 in chips)
+Seat 4: Velbor107 ($301 in chips)
+Velbor107: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [3d Jh Ts]
+Apanage: checks
+Velbor107: bets $3
+Apanage: raises $3 to $6
+Velbor107: calls $3
+*** TURN *** [3d Jh Ts] [3h]
+Apanage: bets $6
+Velbor107: raises $6 to $12
+Apanage: calls $6
+*** RIVER *** [3d Jh Ts 3h] [Tc]
+Apanage: checks
+Velbor107: bets $6
+Apanage: folds
+Uncalled bet ($6) returned to Velbor107
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d Jh Ts 3h Tc]
+Seat 2: Apanage (big blind) folded on the River
+Seat 4: Velbor107 (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #159680266505:  Hold'em Limit ($3/$6 USD) - 2016/10/09 6:43:37 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 2: Apanage ($75.66 in chips)
+Seat 4: Velbor107 ($324.50 in chips)
+Apanage: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+Velbor107: folds
+Uncalled bet ($3) returned to Apanage
+Apanage collected $6 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Apanage (button) (small blind) collected ($6)
+Seat 4: Velbor107 (big blind) folded before Flop
+
+
+
+
+PokerStars Hand #161632762436:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:49:54 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($77.83 in chips)
+Seat 3: cbarnes ($187.33 in chips)
+cbarnes: posts small blind $1
+ToDaFelt: is sitting out
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt leaves the table
+cbarnes: folds
+Uncalled bet ($2) returned to Vampo U
+Vampo U collected $2 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (big blind) collected ($2)
+Seat 3: cbarnes (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161632765209:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:49:59 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($78.83 in chips)
+Seat 3: cbarnes ($186.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: calls $2
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [7d Ah 6d]
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [7d Ah 6d] [Kc]
+cbarnes: bets $6
+Vampo U: calls $6
+*** RIVER *** [7d Ah 6d Kc] [Qc]
+cbarnes: bets $6
+Vampo U: folds
+Uncalled bet ($6) returned to cbarnes
+cbarnes collected $29.50 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d Ah 6d Kc Qc]
+Seat 1: Vampo U (button) (small blind) folded on the River
+Seat 3: cbarnes (big blind) collected ($29.50)
+
+
+PokerStars Hand #161632801234:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:51:04 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($45.47 in chips)
+Seat 3: cbarnes ($218.33 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [Qh 5h 8c]
+Vampo U: checks
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [Qh 5h 8c] [5s]
+Vampo U: checks
+cbarnes: checks
+*** RIVER *** [Qh 5h 8c 5s] [Ts]
+Vampo U: bets $6
+cbarnes: calls $6
+*** SHOW DOWN ***
+Vampo U: shows [8s Js] (two pair, Eights and Fives)
+cbarnes: mucks hand
+Vampo U collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 5h 8c 5s Ts]
+Seat 1: Vampo U (big blind) showed [8s Js] and won ($29.50) with two pair, Eights and Fives
+Seat 3: cbarnes (button) (small blind) mucked
+
+
+PokerStars Hand #161632779519:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:50:25 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($63.83 in chips)
+Seat 3: cbarnes ($200.83 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [Jc 2c Ts]
+Vampo U: checks
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [Jc 2c Ts] [Kd]
+Vampo U: checks
+cbarnes: checks
+*** RIVER *** [Jc 2c Ts Kd] [Td]
+Vampo U: bets $6
+cbarnes: folds
+Uncalled bet ($6) returned to Vampo U
+Vampo U collected $17.64 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 2c Ts Kd Td]
+Seat 1: Vampo U (big blind) collected ($17.64)
+Seat 3: cbarnes (button) (small blind) folded on the River
+
+
+PokerStars Hand #161632816604:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:51:31 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($65.73 in chips)
+Seat 3: cbarnes ($197.33 in chips)
+cbarnes: posts small blind $1
+Headgtboy was removed from the table for failing to post
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [2d 3d 4h]
+Vampo U: checks
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [2d 3d 4h] [6c]
+Vampo U: checks
+cbarnes: bets $6
+Vampo U: calls $6
+*** RIVER *** [2d 3d 4h 6c] [7d]
+Vampo U: checks
+cbarnes: bets $6
+Vampo U: calls $6
+*** SHOW DOWN ***
+cbarnes: shows [Th Td] (a pair of Tens)
+Vampo U: mucks hand
+cbarnes collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 3d 4h 6c 7d]
+Seat 1: Vampo U (big blind) mucked
+Seat 3: cbarnes (button) (small blind) showed [Th Td] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #161632826651:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:51:49 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($44.73 in chips)
+Seat 3: cbarnes ($217.83 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: raises $3 to $6
+cbarnes: calls $3
+*** FLOP *** [5h Jh 4c]
+cbarnes: checks
+Vampo U: bets $3
+cbarnes: calls $3
+*** TURN *** [5h Jh 4c] [9s]
+cbarnes: checks
+Vampo U: bets $6
+cbarnes: folds
+Uncalled bet ($6) returned to Vampo U
+Vampo U collected $17.64 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Jh 4c 9s]
+Seat 1: Vampo U (button) (small blind) collected ($17.64)
+Seat 3: cbarnes (big blind) folded on the Turn
+
+
+PokerStars Hand #161632837294:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:08 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($53.37 in chips)
+Seat 3: cbarnes ($208.83 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [9h 7d 5s]
+Vampo U: checks
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [9h 7d 5s] [Tc]
+Vampo U: checks
+cbarnes: bets $6
+Vampo U: calls $6
+*** RIVER *** [9h 7d 5s Tc] [5d]
+Vampo U: checks
+cbarnes: bets $6
+Vampo U: calls $6
+*** SHOW DOWN ***
+cbarnes: shows [Kh Kd] (two pair, Kings and Fives)
+Vampo U: mucks hand
+cbarnes collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h 7d 5s Tc 5d]
+Seat 1: Vampo U (big blind) mucked
+Seat 3: cbarnes (button) (small blind) showed [Kh Kd] and won ($41.50) with two pair, Kings and Fives
+
+
+PokerStars Hand #161632810342:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:51:20 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($59.97 in chips)
+Seat 3: cbarnes ($203.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: raises $3 to $6
+cbarnes: calls $3
+*** FLOP *** [7s Th 2h]
+cbarnes: checks
+Vampo U: bets $3
+cbarnes: folds
+Uncalled bet ($3) returned to Vampo U
+Vampo U collected $11.76 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s Th 2h]
+Seat 1: Vampo U (button) (small blind) collected ($11.76)
+Seat 3: cbarnes (big blind) folded on the Flop
+
+
+PokerStars Hand #161632860026:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:48 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($28.37 in chips)
+Seat 3: cbarnes ($233.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to cbarnes
+cbarnes collected $2 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 3: cbarnes (big blind) collected ($2)
+
+
+PokerStars Hand #161632856253:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:42 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($31.37 in chips)
+Seat 3: cbarnes ($230.33 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: folds
+Uncalled bet ($3) returned to cbarnes
+cbarnes collected $6 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Vampo U (big blind) folded before Flop
+Seat 3: cbarnes (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161632853476:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:37 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($32.37 in chips)
+Seat 3: cbarnes ($229.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to cbarnes
+cbarnes collected $2 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 3: cbarnes (big blind) collected ($2)
+
+
+PokerStars Hand #161632850852:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:32 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($31.37 in chips)
+Seat 3: cbarnes ($230.33 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: folds
+Uncalled bet ($2) returned to Vampo U
+Vampo U collected $2 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (big blind) collected ($2)
+Seat 3: cbarnes (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161632848051:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:27 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($32.37 in chips)
+Seat 3: cbarnes ($229.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to cbarnes
+cbarnes collected $2 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 3: cbarnes (big blind) collected ($2)
+
+
+PokerStars Hand #161632862700:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:52:53 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($27.37 in chips)
+Seat 3: cbarnes ($234.33 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [Ks Jh Kc]
+Vampo U: checks
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [Ks Jh Kc] [9h]
+Vampo U: checks
+cbarnes: checks
+*** RIVER *** [Ks Jh Kc 9h] [Qd]
+Vampo U: bets $6
+cbarnes: calls $6
+*** SHOW DOWN ***
+Vampo U: shows [Js 4c] (two pair, Kings and Jacks)
+cbarnes: mucks hand
+Vampo U collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Jh Kc 9h Qd]
+Seat 1: Vampo U (big blind) showed [Js 4c] and won ($29.50) with two pair, Kings and Jacks
+Seat 3: cbarnes (button) (small blind) mucked
+
+
+PokerStars Hand #161632872707:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:53:11 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($41.87 in chips)
+Seat 3: cbarnes ($219.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: raises $3 to $6
+cbarnes: calls $3
+*** FLOP *** [Kd Kh Qs]
+cbarnes: checks
+Vampo U: bets $3
+cbarnes: calls $3
+*** TURN *** [Kd Kh Qs] [2c]
+cbarnes: checks
+Vampo U: checks
+*** RIVER *** [Kd Kh Qs 2c] [6h]
+cbarnes: bets $6
+Vampo U: calls $6
+*** SHOW DOWN ***
+cbarnes: shows [Qc Ts] (two pair, Kings and Queens)
+Vampo U: mucks hand
+cbarnes collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Kh Qs 2c 6h]
+Seat 1: Vampo U (button) (small blind) mucked
+Seat 3: cbarnes (big blind) showed [Qc Ts] and won ($29.50) with two pair, Kings and Queens
+
+
+PokerStars Hand #161632881488:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:53:26 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($26.87 in chips)
+Seat 3: cbarnes ($233.83 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: folds
+Uncalled bet ($2) returned to Vampo U
+Vampo U collected $2 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (big blind) collected ($2)
+Seat 3: cbarnes (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161632913173:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:54:22 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($46.86 in chips)
+Seat 3: cbarnes ($259.27 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: folds
+Uncalled bet ($2) returned to Vampo U
+Vampo U collected $2 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (big blind) collected ($2)
+Seat 3: cbarnes (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161632904313:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:54:06 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($46.92 in chips)
+Seat 3: cbarnes ($259.33 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: calls $2
+cbarnes: checks
+*** FLOP *** [Td 8s Js]
+cbarnes: checks
+Vampo U: checks
+*** TURN *** [Td 8s Js] [Jd]
+cbarnes: checks
+Vampo U: checks
+*** RIVER *** [Td 8s Js Jd] [7d]
+cbarnes: checks
+Vampo U: checks
+*** SHOW DOWN ***
+cbarnes: shows [5h 7c] (two pair, Jacks and Sevens)
+Vampo U: shows [6h 7s] (two pair, Jacks and Sevens)
+cbarnes collected $2.94 from pot
+Vampo U collected $2.94 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Td 8s Js Jd 7d]
+Seat 1: Vampo U (button) (small blind) showed [6h 7s] and won ($2.94) with two pair, Jacks and Sevens
+Seat 3: cbarnes (big blind) showed [5h 7c] and won ($2.94) with two pair, Jacks and Sevens
+
+
+PokerStars Hand #161632884221:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:53:31 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($27.87 in chips)
+Seat 3: cbarnes ($232.83 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: raises $3 to $6
+cbarnes: calls $3
+*** FLOP *** [7c Kd 8h]
+cbarnes: checks
+Vampo U: bets $3
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** TURN *** [7c Kd 8h] [6h]
+cbarnes: bets $6
+Vampo U: calls $6
+*** RIVER *** [7c Kd 8h 6h] [9c]
+cbarnes: bets $6
+Vampo U: calls $6
+*** SHOW DOWN ***
+cbarnes: shows [Ts 8s] (a straight, Six to Ten)
+Vampo U: mucks hand
+cbarnes collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c Kd 8h 6h 9c]
+Seat 1: Vampo U (button) (small blind) mucked
+Seat 3: cbarnes (big blind) showed [Ts 8s] and won ($47.50) with a straight, Six to Ten
+
+
+PokerStars Hand #161632895751:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:53:52 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($3.87 in chips)
+Seat 3: cbarnes ($256.33 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: folds
+Uncalled bet ($3) returned to cbarnes
+cbarnes collected $6 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Vampo U (big blind) folded before Flop
+Seat 3: cbarnes (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161632927692:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:54:48 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($55.50 in chips)
+Seat 3: cbarnes ($250.27 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: raises $3 to $6
+cbarnes: calls $3
+*** FLOP *** [3c Ac Jh]
+cbarnes: checks
+Vampo U: bets $3
+cbarnes: folds
+Uncalled bet ($3) returned to Vampo U
+Vampo U collected $11.76 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Ac Jh]
+Seat 1: Vampo U (button) (small blind) collected ($11.76)
+Seat 3: cbarnes (big blind) folded on the Flop
+
+
+PokerStars Hand #161632918558:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:54:32 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 1: Vampo U ($46.86 in chips)
+Seat 3: cbarnes ($259.27 in chips)
+cbarnes: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [9d Kc 5h]
+Vampo U: checks
+cbarnes: bets $3
+Vampo U: calls $3
+*** TURN *** [9d Kc 5h] [Tc]
+ABATAPP joins the table at seat #4
+Vampo U: checks
+cbarnes: checks
+*** RIVER *** [9d Kc 5h Tc] [Jh]
+Vampo U: bets $6
+cbarnes: folds
+Uncalled bet ($6) returned to Vampo U
+Vampo U collected $17.64 from pot
+Vampo U: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d Kc 5h Tc Jh]
+Seat 1: Vampo U (big blind) collected ($17.64)
+Seat 3: cbarnes (button) (small blind) folded on the River
+
+
+PokerStars Hand #161632915837:  Hold'em Limit ($3/$6 USD) - 2016/11/19 7:54:27 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($47.86 in chips)
+Seat 3: cbarnes ($258.27 in chips)
+Vampo U: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to cbarnes
+cbarnes collected $2 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 3: cbarnes (big blind) collected ($2)
+
+
+PokerStars Hand #161634025672:  Hold'em Limit ($3/$6 USD) - 2016/11/19 8:26:02 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: cbarnes ($276.13 in chips)
+Seat 4: ABATAPP ($136.46 in chips)
+cbarnes: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: folds
+Uncalled bet ($2) returned to ABATAPP
+ABATAPP collected $2 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: cbarnes (button) (small blind) folded before Flop
+Seat 4: ABATAPP (big blind) collected ($2)
+
+
+PokerStars Hand #161634012433:  Hold'em Limit ($3/$6 USD) - 2016/11/19 8:25:40 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: cbarnes ($294.13 in chips)
+Seat 4: ABATAPP ($118.96 in chips)
+ABATAPP: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+cbarnes: raises $3 to $9
+ABATAPP: calls $3
+*** FLOP *** [3c 7c 6s]
+cbarnes: bets $3
+ABATAPP: calls $3
+*** TURN *** [3c 7c 6s] [4c]
+cbarnes: bets $6
+ABATAPP: calls $6
+*** RIVER *** [3c 7c 6s 4c] [Jh]
+cbarnes: checks
+ABATAPP: checks
+*** SHOW DOWN ***
+cbarnes: shows [Kh Qs] (high card King)
+ABATAPP: shows [3h Qh] (a pair of Threes)
+ABATAPP collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 7c 6s 4c Jh]
+Seat 3: cbarnes (big blind) showed [Kh Qs] and lost with high card King
+Seat 4: ABATAPP (button) (small blind) showed [3h Qh] and won ($35.50) with a pair of Threes
+
+
+PokerStars Hand #161634789270:  Hold'em Limit ($3/$6 USD) - 2016/11/19 8:46:18 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($141.94 in chips)
+Seat 4: ABATAPP ($114.79 in chips)
+Vampo U: posts small blind $1
+HAL9QQQ: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to ABATAPP
+ABATAPP collected $2 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 4: ABATAPP (big blind) collected ($2)
+
+
+PokerStars Hand #161634813811:  Hold'em Limit ($3/$6 USD) - 2016/11/19 8:46:56 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($161.44 in chips)
+Seat 4: ABATAPP ($94.79 in chips)
+Vampo U: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to ABATAPP
+ABATAPP collected $2 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 4: ABATAPP (big blind) collected ($2)
+
+
+PokerStars Hand #161634793173:  Hold'em Limit ($3/$6 USD) - 2016/11/19 8:46:24 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 1: Vampo U ($140.94 in chips)
+Seat 4: ABATAPP ($115.79 in chips)
+ABATAPP: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [Jh Kh 3h]
+Vampo U: checks
+ABATAPP: bets $3
+Vampo U: calls $3
+*** TURN *** [Jh Kh 3h] [8h]
+Vampo U: checks
+ABATAPP: bets $6
+Vampo U: calls $6
+*** RIVER *** [Jh Kh 3h 8h] [3c]
+Vampo U: checks
+ABATAPP: bets $6
+Vampo U: calls $6
+*** SHOW DOWN ***
+ABATAPP: shows [Qs As] (a pair of Threes)
+Vampo U: shows [9h 6d] (a flush, King high)
+Vampo U collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh Kh 3h 8h 3c]
+Seat 1: Vampo U (big blind) showed [9h 6d] and won ($41.50) with a flush, King high
+Seat 4: ABATAPP (button) (small blind) showed [Qs As] and lost with a pair of Threes
+
+
+PokerStars Hand #161634817300:  Hold'em Limit ($3/$6 USD) - 2016/11/19 8:47:02 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 1: Vampo U ($160.44 in chips)
+Seat 4: ABATAPP ($95.79 in chips)
+ABATAPP: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+LWNS joins the table at seat #6
+ABATAPP: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [4d Jc 5d]
+Vampo U: checks
+ABATAPP: bets $3
+Vampo U: calls $3
+*** TURN *** [4d Jc 5d] [Kh]
+Vampo U: checks
+ABATAPP: bets $6
+Vampo U: folds
+Uncalled bet ($6) returned to ABATAPP
+ABATAPP collected $17.64 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Jc 5d Kh]
+Seat 1: Vampo U (big blind) folded on the Turn
+Seat 4: ABATAPP (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #161635601244:  Hold'em Limit ($3/$6 USD) - 2016/11/19 9:08:00 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 1: Vampo U ($159.13 in chips)
+Seat 4: tamnt10549 ($4.43 in chips)
+tamnt10549: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+tamnt10549: raises $1.43 to $4.43 and is all-in
+Vampo U: calls $1.43
+*** FLOP *** [Kh Th Qs]
+*** TURN *** [Kh Th Qs] [7s]
+*** RIVER *** [Kh Th Qs 7s] [3s]
+*** SHOW DOWN ***
+Vampo U: shows [Kc Ac] (a pair of Kings)
+tamnt10549: shows [8h 8s] (a pair of Eights)
+Vampo U collected $8.68 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.18
+Board [Kh Th Qs 7s 3s]
+Seat 1: Vampo U (big blind) showed [Kc Ac] and won ($8.68) with a pair of Kings
+Seat 4: tamnt10549 (button) (small blind) showed [8h 8s] and lost with a pair of Eights
+
+
+PokerStars Hand #161635590647:  Hold'em Limit ($3/$6 USD) - 2016/11/19 9:07:44 ET
+Table 'Aaltje' 6-max Seat #1 is the button
+Seat 1: Vampo U ($160.13 in chips)
+Seat 4: tamnt10549 ($3.43 in chips)
+Vampo U: posts small blind $1
+HAL9QQQ: is sitting out
+Ultrafranke was removed from the table for failing to post
+tamnt10549: posts big blind $3
+*** HOLE CARDS ***
+Vampo U: folds
+Uncalled bet ($2) returned to tamnt10549
+tamnt10549 collected $2 from pot
+tamnt10549: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vampo U (button) (small blind) folded before Flop
+Seat 4: tamnt10549 (big blind) collected ($2)
+
+
+
+
+PokerStars Hand #144451978147:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:14:54 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($48.64 in chips)
+Seat 4: Agrotait ($72.76 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: raises $3 to $6
+GoliafUa joins the table at seat #5
+Agrotait: folds
+Uncalled bet ($3) returned to rusuciprian1
+rusuciprian1 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) collected ($6)
+Seat 4: Agrotait (big blind) folded before Flop
+
+
+PokerStars Hand #144451971521:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:14:41 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($54.64 in chips)
+Seat 4: Agrotait ($67 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** FLOP *** [3h 6d Qs]
+rusuciprian1: checks
+Agrotait: bets $3
+rusuciprian1: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 6d Qs]
+Seat 3: rusuciprian1 (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144451968910:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:14:35 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($55.64 in chips)
+Seat 4: Agrotait ($66 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #144451965360:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:14:28 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($58.64 in chips)
+Seat 4: Agrotait ($63 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: rusuciprian1 (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144451949455:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:13:56 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($50 in chips)
+Seat 4: Agrotait ($72 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: calls $2
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** FLOP *** [2c 7d 6c]
+Agrotait: checks
+rusuciprian1: bets $3
+Agrotait: calls $3
+*** TURN *** [2c 7d 6c] [3s]
+Agrotait: checks
+rusuciprian1: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to rusuciprian1
+rusuciprian1 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 7d 6c 3s]
+Seat 3: rusuciprian1 (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #144451983114:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:15:04 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($51.64 in chips)
+Seat 4: Agrotait ($69.76 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Jd Ts 4c]
+rusuciprian1: bets $3
+Agrotait: calls $3
+*** TURN *** [Jd Ts 4c] [4d]
+rusuciprian1: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to rusuciprian1
+rusuciprian1 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jd Ts 4c 4d]
+Seat 3: rusuciprian1 (big blind) collected ($23.52)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144452007370:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:15:53 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($85.66 in chips)
+Seat 4: Agrotait ($72 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #144451994113:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:15:26 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($62.16 in chips)
+Seat 4: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** FLOP *** [Jc 6s Qh]
+rusuciprian1: bets $3
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** TURN *** [Jc 6s Qh] [8d]
+rusuciprian1: bets $6
+Agrotait: calls $6
+*** RIVER *** [Jc 6s Qh 8d] [2h]
+rusuciprian1: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+rusuciprian1: shows [Qs 5h] (a pair of Queens)
+Agrotait: mucks hand
+rusuciprian1 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 6s Qh 8d 2h]
+Seat 3: rusuciprian1 (big blind) showed [Qs 5h] and won ($47.50) with a pair of Queens
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #144451991706:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:15:21 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($63.16 in chips)
+Seat 4: Agrotait ($72 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #144452039348:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:16:57 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($85.18 in chips)
+Seat 4: Agrotait ($71.76 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: folds
+Uncalled bet ($2) returned to Agrotait
+rusuciprian1 leaves the table
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #144452033949:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:16:47 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($88.18 in chips)
+Seat 4: Agrotait ($68.76 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: rusuciprian1 (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144452031504:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:16:42 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($89.18 in chips)
+Seat 4: Agrotait ($67.76 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #144452021618:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:16:22 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($77.66 in chips)
+Seat 4: Agrotait ($79.76 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** FLOP *** [5h 7c Ad]
+rusuciprian1: bets $3
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** TURN *** [5h 7c Ad] [Js]
+rusuciprian1: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to rusuciprian1
+rusuciprian1 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h 7c Ad Js]
+Seat 3: rusuciprian1 (big blind) collected ($23.52)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144452019245:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:16:17 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 3: rusuciprian1 ($78.66 in chips)
+Seat 4: Agrotait ($78.76 in chips)
+rusuciprian1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rusuciprian1: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rusuciprian1 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #144452009877:  Hold'em Limit ($3/$6 USD) - 2015/11/27 7:15:58 ET
+Table 'Aaltje' 6-max Seat #4 is the button
+Seat 3: rusuciprian1 ($84.66 in chips)
+Seat 4: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+rusuciprian1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rusuciprian1: calls $3
+*** FLOP *** [8d 7h 3h]
+rusuciprian1: checks
+Agrotait: bets $3
+rusuciprian1: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 7h 3h]
+Seat 3: rusuciprian1 (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+
+
+PokerStars Hand #144614797189:  Hold'em Limit ($3/$6 USD) - 2015/11/30 11:59:33 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($357.94 in chips)
+Seat 2: Crspy Bacon ($99 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (button) (small blind) collected ($6)
+Seat 2: Crspy Bacon (big blind) folded before Flop
+
+
+PokerStars Hand #144614780168:  Hold'em Limit ($3/$6 USD) - 2015/11/30 11:59:07 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($337.44 in chips)
+Seat 2: Crspy Bacon ($120 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Qh 2c 3d]
+jl45259071: bets $3
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** TURN *** [Qh 2c 3d] [2h]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [Qh 2c 3d 2h] [8h]
+jl45259071: checks
+Crspy Bacon: checks
+*** SHOW DOWN ***
+jl45259071: shows [6h 6c] (two pair, Sixes and Deuces)
+Crspy Bacon: mucks hand
+jl45259071 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 2c 3d 2h 8h]
+Seat 1: jl45259071 (big blind) showed [6h 6c] and won ($41.50) with two pair, Sixes and Deuces
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144614834834:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:00:28 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($366.44 in chips)
+Seat 2: Crspy Bacon ($89.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Th 7c 8s]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Th 7c 8s] [7s]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 7c 8s 7s]
+Seat 1: jl45259071 (button) (small blind) collected ($29.50)
+Seat 2: Crspy Bacon (big blind) folded on the Turn
+
+
+PokerStars Hand #144614824800:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:00:13 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($348.94 in chips)
+Seat 2: Crspy Bacon ($107.50 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [8h 3h 3d]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [8h 3h 3d] [9h]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [8h 3h 3d 9h] [As]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $35.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 3h 3d 9h As]
+Seat 1: jl45259071 (big blind) collected ($35.50)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144614814730:  Hold'em Limit ($3/$6 USD) - 2015/11/30 11:59:59 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($345.94 in chips)
+Seat 2: Crspy Bacon ($110.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (button) (small blind) collected ($6)
+Seat 2: Crspy Bacon (big blind) folded before Flop
+
+
+PokerStars Hand #144614801863:  Hold'em Limit ($3/$6 USD) - 2015/11/30 11:59:40 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($360.94 in chips)
+Seat 2: Crspy Bacon ($96 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [7c Qd 9h]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [7c Qd 9h] [6s]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [7c Qd 9h 6s] [As]
+jl45259071: checks
+Crspy Bacon: checks
+*** SHOW DOWN ***
+jl45259071: shows [5h Jc] (high card Ace)
+Crspy Bacon: shows [7s 4c] (a pair of Sevens)
+Crspy Bacon collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c Qd 9h 6s As]
+Seat 1: jl45259071 (big blind) showed [5h Jc] and lost with high card Ace
+Seat 2: Crspy Bacon (button) (small blind) showed [7s 4c] and won ($29.50) with a pair of Sevens
+
+
+PokerStars Hand #144614875233:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:01:23 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($360.58 in chips)
+Seat 2: Crspy Bacon ($94 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kh 6h Js]
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 6h Js]
+Seat 1: jl45259071 (button) (small blind) folded on the Flop
+Seat 2: Crspy Bacon (big blind) collected ($11.76)
+
+
+PokerStars Hand #144614871513:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:01:18 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($359.58 in chips)
+Seat 2: Crspy Bacon ($95 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: folds
+Uncalled bet ($2) returned to jl45259071
+jl45259071 collected $2 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: jl45259071 (big blind) collected ($2)
+Seat 2: Crspy Bacon (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144614854903:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:00:56 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($389.58 in chips)
+Seat 2: Crspy Bacon ($65.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [Ts 4c 5d]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** TURN *** [Ts 4c 5d] [9d]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [Ts 4c 5d 9d] [2c]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [9h 5c] (two pair, Nines and Fives)
+jl45259071: mucks hand
+Crspy Bacon collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 4c 5d 9d 2c]
+Seat 1: jl45259071 (button) (small blind) mucked
+Seat 2: Crspy Bacon (big blind) showed [9h 5c] and won ($59.50) with two pair, Nines and Fives
+
+
+PokerStars Hand #144614845104:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:00:42 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($380.94 in chips)
+Seat 2: Crspy Bacon ($74.50 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [6h 9c Jd]
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 9c Jd]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #144614925555:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:02:28 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($360.08 in chips)
+Seat 2: Crspy Bacon ($93.26 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Th Qs 4s]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** TURN *** [Th Qs 4s] [3d]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [Th Qs 4s 3d] [6s]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Qh 7s] (a pair of Queens)
+Crspy Bacon: mucks hand
+jl45259071 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th Qs 4s 3d 6s]
+Seat 1: jl45259071 (big blind) showed [Qh 7s] and won ($47.50) with a pair of Queens
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144614906568:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:02:03 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($330.58 in chips)
+Seat 2: Crspy Bacon ($123.26 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [9s 2c 6c]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** TURN *** [9s 2c 6c] [2h]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: calls $6
+*** RIVER *** [9s 2c 6c 2h] [Js]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [2s Kh] (three of a kind, Deuces)
+Crspy Bacon: mucks hand
+jl45259071 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9s 2c 6c 2h Js]
+Seat 1: jl45259071 (button) (small blind) showed [2s Kh] and won ($59.50) with three of a kind, Deuces
+Seat 2: Crspy Bacon (big blind) mucked
+
+
+PokerStars Hand #144614887285:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:01:39 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($354.58 in chips)
+Seat 2: Crspy Bacon ($99.76 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [8d 8s Ts]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [8d 8s Ts] [Kh]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [8d 8s Ts Kh] [8c]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [5c Qc] (three of a kind, Eights)
+Crspy Bacon: shows [4s Ah] (three of a kind, Eights - Ace kicker)
+Crspy Bacon collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d 8s Ts Kh 8c]
+Seat 1: jl45259071 (big blind) showed [5c Qc] and lost with three of a kind, Eights
+Seat 2: Crspy Bacon (button) (small blind) showed [4s Ah] and won ($47.50) with three of a kind, Eights
+
+
+PokerStars Hand #144614977418:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:03:33 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($415.36 in chips)
+Seat 2: Crspy Bacon ($36.26 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kh 6c 3h]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 6c 3h]
+Seat 1: jl45259071 (big blind) folded on the Flop
+Seat 2: Crspy Bacon (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144614964932:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:03:17 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($400.86 in chips)
+Seat 2: Crspy Bacon ($51.26 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [4c 7h 5s]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [4c 7h 5s] [6s]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [4c 7h 5s 6s] [Jh]
+Crspy Bacon: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Crspy Bacon: shows [9d Ts] (high card Jack)
+jl45259071: shows [Kh 4d] (a pair of Fours)
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 7h 5s 6s Jh]
+Seat 1: jl45259071 (button) (small blind) showed [Kh 4d] and won ($29.50) with a pair of Fours
+Seat 2: Crspy Bacon (big blind) showed [9d Ts] and lost with high card Jack
+
+
+PokerStars Hand #144614953519:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:03:03 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($389.34 in chips)
+Seat 2: Crspy Bacon ($63.26 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [4s 5c Td]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [4s 5c Td] [9h]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $23.52 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4s 5c Td 9h]
+Seat 1: jl45259071 (big blind) collected ($23.52)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144614941378:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:02:48 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($383.58 in chips)
+Seat 2: Crspy Bacon ($69.26 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [9d 2s 2h]
+Crspy Bacon: checks
+jl45259071: checks
+*** TURN *** [9d 2s 2h] [Kd]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 2s 2h Kd]
+Seat 1: jl45259071 (button) (small blind) collected ($11.76)
+Seat 2: Crspy Bacon (big blind) folded on the Turn
+
+
+PokerStars Hand #144615011930:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:04:16 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($400.36 in chips)
+Seat 2: Crspy Bacon ($50.78 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [6s 6d 8s]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [6s 6d 8s] [5s]
+Crspy Bacon: checks
+jl45259071: checks
+*** RIVER *** [6s 6d 8s 5s] [Kh]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [7h Kd] (two pair, Kings and Sixes)
+Crspy Bacon: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 6d 8s 5s Kh]
+Seat 1: jl45259071 (button) (small blind) showed [7h Kd] and won ($29.50) with two pair, Kings and Sixes
+Seat 2: Crspy Bacon (big blind) mucked
+
+
+PokerStars Hand #144615004574:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:04:07 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($403.36 in chips)
+Seat 2: Crspy Bacon ($47.78 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $6 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (big blind) folded before Flop
+Seat 2: Crspy Bacon (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144614987710:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:03:46 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($409.36 in chips)
+Seat 2: Crspy Bacon ($42.02 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6h Kd 8c]
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Kd 8c]
+Seat 1: jl45259071 (button) (small blind) folded on the Flop
+Seat 2: Crspy Bacon (big blind) collected ($11.76)
+
+
+PokerStars Hand #144615078919:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:05:40 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($390.86 in chips)
+Seat 2: Crspy Bacon ($58.92 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Ah 4h 7d]
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 4h 7d]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #144615072580:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:05:32 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($387.86 in chips)
+Seat 2: Crspy Bacon ($61.92 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (button) (small blind) collected ($6)
+Seat 2: Crspy Bacon (big blind) folded before Flop
+
+
+PokerStars Hand #144615052516:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:05:07 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($396.86 in chips)
+Seat 2: Crspy Bacon ($53.28 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [7c 3h Qs]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [7c 3h Qs] [2d]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon collected $17.64 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 3h Qs 2d]
+Seat 1: jl45259071 (big blind) folded on the Turn
+Seat 2: Crspy Bacon (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #144615025320:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:04:33 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($414.86 in chips)
+Seat 2: Crspy Bacon ($35.78 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [7s Ts 4d]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [7s Ts 4d] [5h]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [7s Ts 4d 5h] [Qc]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [Qs 6h] (a pair of Queens)
+jl45259071: mucks hand
+Crspy Bacon collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s Ts 4d 5h Qc]
+Seat 1: jl45259071 (big blind) mucked
+Seat 2: Crspy Bacon (button) (small blind) showed [Qs 6h] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #144615041604:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:04:53 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($393.86 in chips)
+Seat 2: Crspy Bacon ($56.28 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (button) (small blind) collected ($6)
+Seat 2: Crspy Bacon (big blind) folded before Flop
+
+
+PokerStars Hand #144615085811:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:05:48 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($399.50 in chips)
+Seat 2: Crspy Bacon ($49.92 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [2h 2d Js]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [2h 2d Js] [5c]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: calls $6
+*** RIVER *** [2h 2d Js 5c] [6h]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [6d Jc] (two pair, Jacks and Sixes)
+Crspy Bacon: mucks hand
+jl45259071 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2h 2d Js 5c 6h]
+Seat 1: jl45259071 (button) (small blind) showed [6d Jc] and won ($53.50) with two pair, Jacks and Sixes
+Seat 2: Crspy Bacon (big blind) mucked
+
+
+PokerStars Hand #144615104938:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:06:12 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($426 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9d Th Jc]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [9d Th Jc] [6c]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [9d Th Jc 6c] [6d]
+jl45259071: checks
+Crspy Bacon: checks
+*** SHOW DOWN ***
+jl45259071: shows [8h 2h] (a pair of Sixes)
+Crspy Bacon: shows [Ad Qh] (a pair of Sixes - Ace kicker)
+Crspy Bacon collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Th Jc 6c 6d]
+Seat 1: jl45259071 (big blind) showed [8h 2h] and lost with a pair of Sixes
+Seat 2: Crspy Bacon (button) (small blind) showed [Ad Qh] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #144615115988:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:06:26 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($411 in chips)
+Seat 2: Crspy Bacon ($44.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [9s 2d 5s]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** TURN *** [9s 2d 5s] [Td]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [9s 2d 5s Td] [4s]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [9d 3d] (a pair of Nines)
+jl45259071: shows [9c Jc] (a pair of Nines - Jack kicker)
+jl45259071 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9s 2d 5s Td 4s]
+Seat 1: jl45259071 (button) (small blind) showed [9c Jc] and won ($59.50) with a pair of Nines
+Seat 2: Crspy Bacon (big blind) showed [9d 3d] and lost with a pair of Nines
+
+
+PokerStars Hand #144615129897:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:06:43 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($440.50 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kh 4s 9s]
+jl45259071: checks
+Crspy Bacon: checks
+*** TURN *** [Kh 4s 9s] [Js]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $11.76 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 4s 9s Js]
+Seat 1: jl45259071 (big blind) collected ($11.76)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615138293:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:06:54 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($446.26 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9h Ts Ac]
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h Ts Ac]
+Seat 1: jl45259071 (button) (small blind) folded on the Flop
+Seat 2: Crspy Bacon (big blind) collected ($11.76)
+
+
+PokerStars Hand #144615146084:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:07:03 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($440.26 in chips)
+Seat 2: Crspy Bacon ($35.76 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Qd Ad 7s]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [Qd Ad 7s] [4h]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [Qd Ad 7s 4h] [4s]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [4d 4c] (four of a kind, Fours)
+Crspy Bacon: mucks hand
+jl45259071 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd Ad 7s 4h 4s]
+Seat 1: jl45259071 (big blind) showed [4d 4c] and won ($47.50) with four of a kind, Fours
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144615158731:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:07:19 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($463.76 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ks Th Jc]
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks Th Jc]
+Seat 1: jl45259071 (button) (small blind) folded on the Flop
+Seat 2: Crspy Bacon (big blind) collected ($11.76)
+
+
+PokerStars Hand #144615166806:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:07:29 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($457.76 in chips)
+Seat 2: Crspy Bacon ($35.76 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8d 8c 4s]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [8d 8c 4s] [7d]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [8d 8c 4s 7d] [4c]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 8c 4s 7d 4c]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144615181910:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:07:48 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($466.40 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Th 2h 7s]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Th 2h 7s] [8c]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [Th 2h 7s 8c] [9d]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: raises $3 to $15 and is all-in
+jl45259071: calls $3
+*** SHOW DOWN ***
+Crspy Bacon: shows [Ac Jh] (a straight, Seven to Jack)
+jl45259071: shows [Ts Jd] (a straight, Seven to Jack)
+Crspy Bacon collected $29.75 from pot
+jl45259071 collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Th 2h 7s 8c 9d]
+Seat 1: jl45259071 (button) (small blind) showed [Ts Jd] and won ($29.75) with a straight, Seven to Jack
+Seat 2: Crspy Bacon (big blind) showed [Ac Jh] and won ($29.75) with a straight, Seven to Jack
+
+
+PokerStars Hand #144615208140:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:08:20 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($466.15 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Jc Ah 6d]
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc Ah 6d]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #144615215586:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:08:29 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($474.79 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: checks
+*** FLOP *** [7d 5s Jh]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [7d 5s Jh] [Kc]
+Crspy Bacon: checks
+jl45259071: checks
+*** RIVER *** [7d 5s Jh Kc] [As]
+Crspy Bacon: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Crspy Bacon: shows [9h 5c] (a pair of Fives)
+jl45259071: mucks hand
+Crspy Bacon collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 5s Jh Kc As]
+Seat 1: jl45259071 (button) (small blind) mucked
+Seat 2: Crspy Bacon (big blind) showed [9h 5c] and won ($11.76) with a pair of Fives
+
+
+PokerStars Hand #144615227521:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:08:44 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($468.79 in chips)
+Seat 2: Crspy Bacon ($35.76 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6c Ac 6s]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [6c Ac 6s] [7d]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [6c Ac 6s 7d] [5h]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Ad 2h] (two pair, Aces and Sixes)
+Crspy Bacon: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c Ac 6s 7d 5h]
+Seat 1: jl45259071 (big blind) showed [Ad 2h] and won ($29.50) with two pair, Aces and Sixes
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144615249534:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:09:12 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($483.29 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [6h 3c 5d]
+Crspy Bacon: checks
+jl45259071: checks
+*** TURN *** [6h 3c 5d] [6d]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [6h 3c 5d 6d] [5s]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [9s Ac] (two pair, Sixes and Fives)
+Crspy Bacon: mucks hand
+jl45259071 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 3c 5d 6d 5s]
+Seat 1: jl45259071 (button) (small blind) showed [9s Ac] and won ($35.50) with two pair, Sixes and Fives
+Seat 2: Crspy Bacon (big blind) mucked
+
+
+PokerStars Hand #144615281689:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:09:51 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($500.79 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [4s Td 9h]
+jl45259071: checks
+Crspy Bacon: checks
+*** TURN *** [4s Td 9h] [9s]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [4s Td 9h 9s] [5h]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon said, "10/20 yes?"
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s Td 9h 9s 5h]
+Seat 1: jl45259071 (big blind) folded on the River
+Seat 2: Crspy Bacon (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144615297785:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:10:11 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($494.79 in chips)
+Seat 2: Crspy Bacon ($35.76 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (button) (small blind) collected ($6)
+Seat 2: Crspy Bacon (big blind) folded before Flop
+
+
+PokerStars Hand #144615305126:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:10:20 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($497.79 in chips)
+Seat 2: Crspy Bacon ($32.76 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [3c Kd Jc]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [3c Kd Jc] [Js]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [3c Kd Jc Js] [4h]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [2c 3s] (two pair, Jacks and Threes)
+Crspy Bacon: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c Kd Jc Js 4h]
+Seat 1: jl45259071 (big blind) showed [2c 3s] and won ($29.50) with two pair, Jacks and Threes
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144615319224:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:10:37 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($512.29 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** FLOP *** [2c 8d 5s]
+Crspy Bacon: bets $3
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** TURN *** [2c 8d 5s] [Ks]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: raises $6 to $12 and is all-in
+jl45259071: calls $6
+*** RIVER *** [2c 8d 5s Ks] [9h]
+*** SHOW DOWN ***
+Crspy Bacon: shows [Th Kd] (a pair of Kings)
+jl45259071: shows [Qs As] (high card Ace)
+Crspy Bacon collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2c 8d 5s Ks 9h]
+Seat 1: jl45259071 (button) (small blind) showed [Qs As] and lost with high card Ace
+Seat 2: Crspy Bacon (big blind) showed [Th Kd] and won ($59.50) with a pair of Kings
+
+
+PokerStars Hand #144615335141:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:10:57 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($482.29 in chips)
+Seat 2: Crspy Bacon ($59.50 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** FLOP *** [9d Jh Ts]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [9d Jh Ts] [4s]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Jh Ts 4s]
+Seat 1: jl45259071 (big blind) collected ($29.50)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615345467:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:11:09 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($496.79 in chips)
+Seat 2: Crspy Bacon ($44.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: checks
+*** FLOP *** [2h 2s 8c]
+Crspy Bacon: checks
+jl45259071: checks
+*** TURN *** [2h 2s 8c] [8s]
+Crspy Bacon: checks
+jl45259071: checks
+*** RIVER *** [2h 2s 8c 8s] [Ks]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: raises $6 to $18
+jl45259071: raises $6 to $24
+Betting is capped
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Kd Kh] (a full house, Kings full of Eights)
+Crspy Bacon: mucks hand
+jl45259071 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2h 2s 8c 8s Ks]
+Seat 1: jl45259071 (button) (small blind) showed [Kd Kh] and won ($53.50) with a full house, Kings full of Eights
+Seat 2: Crspy Bacon (big blind) mucked
+
+
+PokerStars Hand #144615367661:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:11:37 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($523.29 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Kh 4c 3h]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [Kh 4c 3h] [Qh]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [Kh 4c 3h Qh] [Ac]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [As Kd] (two pair, Aces and Kings)
+Crspy Bacon: mucks hand
+jl45259071 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh 4c 3h Qh Ac]
+Seat 1: jl45259071 (big blind) showed [As Kd] and won ($47.50) with two pair, Aces and Kings
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144615379098:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:11:51 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($546.79 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [As 2c 7s]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $11.76 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 2c 7s]
+Seat 1: jl45259071 (button) (small blind) collected ($11.76)
+Seat 2: Crspy Bacon (big blind) folded on the Flop
+
+
+PokerStars Hand #144615386314:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:12:00 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($552.55 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8h 6c Ad]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [8h 6c Ad] [5h]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [8h 6c Ad 5h] [9d]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 6c Ad 5h 9d]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144615397468:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:12:13 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($561.19 in chips)
+Seat 2: Crspy Bacon ($30 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: raises $3 to $9
+jl45259071: calls $3
+*** FLOP *** [2s Ts Jd]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [2s Ts Jd] [Kh]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [2s Ts Jd Kh] [6d]
+Crspy Bacon: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Crspy Bacon: shows [5d 8d] (high card King)
+jl45259071: shows [2d Ad] (a pair of Deuces)
+jl45259071 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2s Ts Jd Kh 6d]
+Seat 1: jl45259071 (button) (small blind) showed [2d Ad] and won ($35.50) with a pair of Deuces
+Seat 2: Crspy Bacon (big blind) showed [5d 8d] and lost with high card King
+
+
+PokerStars Hand #144615428774:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:12:52 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($578.69 in chips)
+Seat 2: Crspy Bacon ($180 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6d Td 7c]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** TURN *** [6d Td 7c] [6h]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $23.52 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d Td 7c 6h]
+Seat 1: jl45259071 (big blind) collected ($23.52)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615444501:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:13:11 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($590.21 in chips)
+Seat 2: Crspy Bacon ($168 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [2s 9c 3s]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [2s 9c 3s] [4c]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [2s 9c 3s 4c] [Kh]
+Crspy Bacon: checks
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [4h Ks] (two pair, Kings and Fours)
+Crspy Bacon: mucks hand
+jl45259071 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 9c 3s 4c Kh]
+Seat 1: jl45259071 (button) (small blind) showed [4h Ks] and won ($41.50) with two pair, Kings and Fours
+Seat 2: Crspy Bacon (big blind) mucked
+
+
+PokerStars Hand #144615462816:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:13:34 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($610.71 in chips)
+Seat 2: Crspy Bacon ($147 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [5d Ac 6d]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [5d Ac 6d] [3h]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [5d Ac 6d 3h] [Qd]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [As Ks] (a pair of Aces)
+jl45259071: mucks hand
+Crspy Bacon collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d Ac 6d 3h Qd]
+Seat 1: jl45259071 (big blind) mucked
+Seat 2: Crspy Bacon (button) (small blind) showed [As Ks] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #144615477984:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:13:52 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($589.71 in chips)
+Seat 2: Crspy Bacon ($167.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: checks
+*** FLOP *** [Ts Td 9s]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Ts Td 9s] [Ad]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [Ts Td 9s Ad] [8c]
+Crspy Bacon: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Crspy Bacon: shows [2d Jc] (a pair of Tens)
+jl45259071: shows [6h 9h] (two pair, Tens and Nines)
+jl45259071 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ts Td 9s Ad 8c]
+Seat 1: jl45259071 (button) (small blind) showed [6h 9h] and won ($23.52) with two pair, Tens and Nines
+Seat 2: Crspy Bacon (big blind) showed [2d Jc] and lost with a pair of Tens
+
+
+PokerStars Hand #144615491755:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:14:09 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($601.23 in chips)
+Seat 2: Crspy Bacon ($155.50 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Qd 3h Qh]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [Qd 3h Qh] [5d]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $23.52 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 3h Qh 5d]
+Seat 1: jl45259071 (big blind) collected ($23.52)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615507862:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:14:29 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($612.75 in chips)
+Seat 2: Crspy Bacon ($143.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [8s 4h Ad]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $11.76 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 4h Ad]
+Seat 1: jl45259071 (button) (small blind) collected ($11.76)
+Seat 2: Crspy Bacon (big blind) folded on the Flop
+
+
+PokerStars Hand #144615514211:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:14:37 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($618.51 in chips)
+Seat 2: Crspy Bacon ($137.50 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [8c Kh Jc]
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Kh Jc]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #144615520943:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:14:46 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($627.15 in chips)
+Seat 2: Crspy Bacon ($128.50 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Jc Ts Qs]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Jc Ts Qs] [7c]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [Jc Ts Qs 7c] [Tc]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [Qh 7d] (two pair, Queens and Tens)
+jl45259071: mucks hand
+Crspy Bacon collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc Ts Qs 7c Tc]
+Seat 1: jl45259071 (button) (small blind) mucked
+Seat 2: Crspy Bacon (big blind) showed [Qh 7d] and won ($41.50) with two pair, Queens and Tens
+
+
+PokerStars Hand #144615532994:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:15:00 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($606.15 in chips)
+Seat 2: Crspy Bacon ($149 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8d Kc 9h]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [8d Kc 9h] [5h]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d Kc 9h 5h]
+Seat 1: jl45259071 (big blind) collected ($29.50)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615546979:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:15:17 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($620.65 in chips)
+Seat 2: Crspy Bacon ($134 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9h Js 6h]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [9h Js 6h] [Ac]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h Js 6h Ac]
+Seat 1: jl45259071 (button) (small blind) collected ($29.50)
+Seat 2: Crspy Bacon (big blind) folded on the Turn
+
+
+PokerStars Hand #144615559166:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:15:32 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($635.15 in chips)
+Seat 2: Crspy Bacon ($119 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [7s 9h Td]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [7s 9h Td] [2s]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [7s 9h Td 2s] [5h]
+jl45259071: bets $6
+Crspy Bacon: raises $6 to $12
+jl45259071: raises $6 to $18
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Th 9s] (two pair, Tens and Nines)
+Crspy Bacon: mucks hand
+jl45259071 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7s 9h Td 2s 5h]
+Seat 1: jl45259071 (big blind) showed [Th 9s] and won ($65.50) with two pair, Tens and Nines
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144615572818:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:15:49 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($667.65 in chips)
+Seat 2: Crspy Bacon ($86 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6c Ac 5d]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [6c Ac 5d] [4c]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [6c Ac 5d 4c] [6h]
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon collected $29.50 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c Ac 5d 4c 6h]
+Seat 1: jl45259071 (button) (small blind) folded on the River
+Seat 2: Crspy Bacon (big blind) collected ($29.50)
+
+
+PokerStars Hand #144615594103:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:16:15 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($652.65 in chips)
+Seat 2: Crspy Bacon ($100.50 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kc 3s Th]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Kc 3s Th] [Ah]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon collected $17.64 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 3s Th Ah]
+Seat 1: jl45259071 (big blind) folded on the Turn
+Seat 2: Crspy Bacon (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #144615611977:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:16:37 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($643.65 in chips)
+Seat 2: Crspy Bacon ($109.14 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [Qc 9c 5c]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $11.76 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 9c 5c]
+Seat 1: jl45259071 (button) (small blind) collected ($11.76)
+Seat 2: Crspy Bacon (big blind) folded on the Flop
+
+
+PokerStars Hand #144615626626:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:16:55 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($649.41 in chips)
+Seat 2: Crspy Bacon ($103.14 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [7c 8s 8h]
+jl45259071: checks
+Crspy Bacon: checks
+*** TURN *** [7c 8s 8h] [4s]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 8s 8h 4s]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615643681:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:17:16 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($658.05 in chips)
+Seat 2: Crspy Bacon ($94.14 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Jd 8h 9h]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Jd 8h 9h] [2s]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [Jd 8h 9h 2s] [2h]
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon collected $29.50 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd 8h 9h 2s 2h]
+Seat 1: jl45259071 (button) (small blind) folded on the River
+Seat 2: Crspy Bacon (big blind) collected ($29.50)
+
+
+PokerStars Hand #144615658942:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:17:34 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($643.05 in chips)
+Seat 2: Crspy Bacon ($108.64 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [5c Jd 8c]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Jd 8c]
+Seat 1: jl45259071 (big blind) folded on the Flop
+Seat 2: Crspy Bacon (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144615666117:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:17:43 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($637.05 in chips)
+Seat 2: Crspy Bacon ($114.40 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9h 2c Ts]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [9h 2c Ts] [6c]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [9h 2c Ts 6c] [Th]
+Crspy Bacon: bets $6
+jl45259071: raises $6 to $12
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [5d 9d] (two pair, Tens and Nines)
+Crspy Bacon: shows [Ad 9s] (two pair, Tens and Nines - Ace kicker)
+Crspy Bacon collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h 2c Ts 6c Th]
+Seat 1: jl45259071 (button) (small blind) showed [5d 9d] and lost with two pair, Tens and Nines
+Seat 2: Crspy Bacon (big blind) showed [Ad 9s] and won ($53.50) with two pair, Tens and Nines
+
+
+PokerStars Hand #144615677643:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:17:57 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($610.05 in chips)
+Seat 2: Crspy Bacon ($140.90 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ah 9h 4d]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Ah 9h 4d] [2c]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [Ah 9h 4d 2c] [As]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 9h 4d 2c As]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144615697789:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:18:22 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($618.69 in chips)
+Seat 2: Crspy Bacon ($131.90 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Jh Td 5h]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Jh Td 5h] [Ac]
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** RIVER *** [Jh Td 5h Ac] [9d]
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon collected $29.50 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh Td 5h Ac 9d]
+Seat 1: jl45259071 (button) (small blind) folded on the River
+Seat 2: Crspy Bacon (big blind) collected ($29.50)
+
+
+PokerStars Hand #144615709897:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:18:37 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($603.69 in chips)
+Seat 2: Crspy Bacon ($146.40 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kh 7d Qh]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Kh 7d Qh] [Kc]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [Kh 7d Qh Kc] [Jd]
+jl45259071: checks
+Crspy Bacon: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [Js 8h] (two pair, Kings and Jacks)
+jl45259071: mucks hand
+Crspy Bacon collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 7d Qh Kc Jd]
+Seat 1: jl45259071 (big blind) mucked
+Seat 2: Crspy Bacon (button) (small blind) showed [Js 8h] and won ($29.50) with two pair, Kings and Jacks
+
+
+PokerStars Hand #144615723736:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:18:54 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($588.69 in chips)
+Seat 2: Crspy Bacon ($160.90 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: folds
+Uncalled bet ($2) returned to Crspy Bacon
+Crspy Bacon collected $2 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: jl45259071 (button) (small blind) folded before Flop
+Seat 2: Crspy Bacon (big blind) collected ($2)
+
+
+PokerStars Hand #144615727992:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:18:59 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($587.69 in chips)
+Seat 2: Crspy Bacon ($161.90 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [Ks 9d 6h]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [Ks 9d 6h] [Tc]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $23.52 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 9d 6h Tc]
+Seat 1: jl45259071 (big blind) collected ($23.52)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615737183:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:19:10 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($599.21 in chips)
+Seat 2: Crspy Bacon ($149.90 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: jl45259071 (button) (small blind) collected ($6)
+Seat 2: Crspy Bacon (big blind) folded before Flop
+
+
+PokerStars Hand #144615742522:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:19:17 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($602.21 in chips)
+Seat 2: Crspy Bacon ($146.90 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: calls $3
+*** FLOP *** [3c Td 6h]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [3c Td 6h] [Kh]
+jl45259071: bets $6
+Crspy Bacon: raises $6 to $12
+jl45259071: raises $6 to $18
+Crspy Bacon: calls $6
+*** RIVER *** [3c Td 6h Kh] [Th]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Ah Kd] (two pair, Kings and Tens)
+Crspy Bacon: mucks hand
+jl45259071 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [3c Td 6h Kh Th]
+Seat 1: jl45259071 (big blind) showed [Ah Kd] and won ($71.50) with two pair, Kings and Tens
+Seat 2: Crspy Bacon (button) (small blind) mucked
+
+
+PokerStars Hand #144615762907:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:19:41 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($637.71 in chips)
+Seat 2: Crspy Bacon ($110.90 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [3h 4d 8h]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $11.76 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 4d 8h]
+Seat 1: jl45259071 (button) (small blind) collected ($11.76)
+Seat 2: Crspy Bacon (big blind) folded on the Flop
+
+
+PokerStars Hand #144615774126:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:19:55 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($643.47 in chips)
+Seat 2: Crspy Bacon ($104.90 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kc 5d 5s]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** TURN *** [Kc 5d 5s] [Ah]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $23.52 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc 5d 5s Ah]
+Seat 1: jl45259071 (big blind) collected ($23.52)
+Seat 2: Crspy Bacon (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144615794177:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:20:20 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($660.75 in chips)
+Seat 2: Crspy Bacon ($86.90 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ts 9d As]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [Ts 9d As] [Jd]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [Ts 9d As Jd] [7d]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 9d As Jd 7d]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144615783925:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:20:07 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($654.99 in chips)
+Seat 2: Crspy Bacon ($92.90 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: checks
+*** FLOP *** [4c Qh Js]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [4c Qh Js] [Th]
+Crspy Bacon: checks
+jl45259071: checks
+*** RIVER *** [4c Qh Js Th] [Kc]
+Crspy Bacon: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Crspy Bacon: shows [6d 7h] (high card King)
+jl45259071: shows [4h 7d] (a pair of Fours)
+jl45259071 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c Qh Js Th Kc]
+Seat 1: jl45259071 (button) (small blind) showed [4h 7d] and won ($11.76) with a pair of Fours
+Seat 2: Crspy Bacon (big blind) showed [6d 7h] and lost with high card King
+
+
+PokerStars Hand #144615841350:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:21:17 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($648.39 in chips)
+Seat 2: Crspy Bacon ($98.06 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: raises $3 to $9
+Crspy Bacon: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** FLOP *** [6h 9d 6c]
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [6h 9d 6c] [Qs]
+jl45259071: bets $6
+Crspy Bacon: calls $6
+*** RIVER *** [6h 9d 6c Qs] [Jh]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $41.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 9d 6c Qs Jh]
+Seat 1: jl45259071 (big blind) collected ($41.50)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144615829189:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:21:02 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($657.39 in chips)
+Seat 2: Crspy Bacon ($89.42 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [6h 2c 7d]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [6h 2c 7d] [6s]
+Crspy Bacon: checks
+jl45259071: checks
+*** RIVER *** [6h 2c 7d 6s] [4s]
+Crspy Bacon: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Crspy Bacon: shows [Ks 9d] (a pair of Sixes)
+jl45259071: mucks hand
+Crspy Bacon collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 2c 7d 6s 4s]
+Seat 1: jl45259071 (button) (small blind) mucked
+Seat 2: Crspy Bacon (big blind) showed [Ks 9d] and won ($17.64) with a pair of Sixes
+
+
+PokerStars Hand #144615819509:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:20:50 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($663.39 in chips)
+Seat 2: Crspy Bacon ($83.66 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [3c Ts Ad]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Ts Ad]
+Seat 1: jl45259071 (big blind) folded on the Flop
+Seat 2: Crspy Bacon (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144615805478:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:20:33 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($669.39 in chips)
+Seat 2: Crspy Bacon ($77.90 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [3s Ac Th]
+Crspy Bacon: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Crspy Bacon
+Crspy Bacon collected $11.76 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Ac Th]
+Seat 1: jl45259071 (button) (small blind) folded on the Flop
+Seat 2: Crspy Bacon (big blind) collected ($11.76)
+
+
+PokerStars Hand #144615902590:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:22:31 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($680.03 in chips)
+Seat 2: Crspy Bacon ($64.20 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [7d 3d 7h]
+Crspy Bacon: checks
+jl45259071: bets $3
+Crspy Bacon: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $11.76 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 3d 7h]
+Seat 1: jl45259071 (button) (small blind) collected ($11.76)
+Seat 2: Crspy Bacon (big blind) folded on the Flop
+
+
+PokerStars Hand #144615891567:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:22:18 ET
+Table 'Aaltje' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($671.39 in chips)
+Seat 2: Crspy Bacon ($73.20 in chips)
+Crspy Bacon: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [5h 3h Js]
+jl45259071: checks
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [5h 3h Js] [5d]
+jl45259071: checks
+Crspy Bacon: checks
+*** RIVER *** [5h 3h Js 5d] [9d]
+jl45259071: bets $6
+Crspy Bacon: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 3h Js 5d 9d]
+Seat 1: jl45259071 (big blind) collected ($17.64)
+Seat 2: Crspy Bacon (button) (small blind) folded on the River
+
+
+PokerStars Hand #144615880855:  Hold'em Limit ($3/$6 USD) - 2015/11/30 12:22:05 ET
+Table 'Aaltje' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($680.39 in chips)
+Seat 2: Crspy Bacon ($64.56 in chips)
+jl45259071: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Crspy Bacon: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [4h Qd 3h]
+Crspy Bacon: bets $3
+jl45259071: calls $3
+*** TURN *** [4h Qd 3h] [Kc]
+Crspy Bacon: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Crspy Bacon
+Crspy Bacon collected $17.64 from pot
+Crspy Bacon: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Qd 3h Kc]
+Seat 1: jl45259071 (button) (small blind) folded on the Turn
+Seat 2: Crspy Bacon (big blind) collected ($17.64)
