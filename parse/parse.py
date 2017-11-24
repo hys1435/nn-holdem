@@ -22,7 +22,7 @@ class matches:
     def export_games_to_csv(self, filename):
         with open(filename, 'a') as output_file:
             for game in self.games:
-                ...
+
         self.games = []
 """This class holds all the data for a given game"""
 class game:
