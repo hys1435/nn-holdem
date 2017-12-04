@@ -1,4 +1,94 @@
 import re
+import os
+
+card_list = [
+    'Ah',
+    '2h',
+    '3h',
+    '4h',
+    '5h',
+    '6h',
+    '7h',
+    '8h',
+    '9h',
+    'Th',
+    'Jh',
+    'Qh',
+    'Kh',
+    'Ac',
+    '2c',
+    '3c',
+    '4c',
+    '5c',
+    '6c',
+    '7c',
+    '8c',
+    '9c',
+    'Tc',
+    'Jc',
+    'Qc',
+    'Kc',
+    'Ad',
+    '2d',
+    '3d',
+    '4d',
+    '5d',
+    '6d',
+    '7d',
+    '8d',
+    '9d',
+    'Td',
+    'Jd',
+    'Qd',
+    'Kd',
+    'As',
+    '2s',
+    '3s',
+    '4s',
+    '5s',
+    '6s',
+    '7s',
+    '8s',
+    '9s',
+    'Ts',
+    'Js',
+    'Qs',
+    'Ks'
+]
+
+action_list = [
+    'calls',
+    'checks',
+    'folds',
+    'posts',
+    'raises',
+    'bets'
+]
+
+def write_card(w_card, file):
+    with open(file, 'a') as current_file:
+        for r_card in card_list:
+            if w_card == r_card:
+                current_file.write("1")
+            else:
+                current_file.write("0")
+            current_file.write(", ") 
+        current_file.write("\n")
+
+def write_action(w_action, file):
+    with open(file, 'a') as current_file:
+        for r_action in action_list:
+            if w_action == r_action:
+                current_file.write("1")
+            else:
+                current_file.write("0")
+            current_file.write(", ")
+        current_file.write("\n")
+
+def write_bet(w_bet, file):
+    with open(file, 'a') as current_file:
+        current_file.write(str(w_bet) + ',')
+        current_file.write("\n")
 
 """This class holds all the games for a given parse"""
 class matches:
@@ -19,11 +109,47 @@ class matches:
 
     """Exports game data to a csv readable format and deletes all games
     in the object"""
-    def export_games_to_csv(self, filename):
-        with open(filename, 'a') as output_file:
-            for game in self.games:
-
-        self.games = []
+    def export_games_to_csv(self):
+        current_actions = os.listdir('./actions')
+        filename = './actions/'+ 'action' + '.txt'
+        mod_games = self.games[:-1]
+        for g in mod_games:
+            hasCards = True
+            for p in g.players:
+                if p.private_cards == []:
+                    hasCards = False
+                    break
+            if hasCards:
+                player_dic = {}
+                for p in g.players:
+                    player_dic[p.name] = [p.private_cards, 0, p.money]
+                for t in g.turns:
+                    p_c = t.public_cards
+                    for m in t.moves:
+                        p = m[0]
+                        a = m[1]
+                        if m[2] == None:
+                            b = 0
+                        else:
+                            b = m[2]
+                        for c in p_c:
+                            write_card(c, filename)
+                        for playa in player_dic:
+                            index = 0
+                            for entry in player_dic[playa]:
+                                if index == 0:
+                                    for c in entry:
+                                        write_card(c, filename)
+                                else:
+                                    write_bet(entry, filename)
+                                index = index + 1
+                        write_action(a, filename)
+                        write_bet(b, filename)
+                        with open(filename, 'a') as f:
+                            f.write('\n')
+                        player_dic[p][1] = player_dic[p][1] + b
+                        player_dic[p][2] = player_dic[p][2] - b
+        self.games = [self.games[-1]]
 """This class holds all the data for a given game"""
 class game:
     def __init__(self, game_num, time):
@@ -88,8 +214,9 @@ class player:
         self.private_cards = []
 
     def add_private_cards(self, cards):
-        for card in cards:
-            self.private_cards.append(card)
+        if self.private_cards == []:
+            for card in cards:
+                self.private_cards.append(card)
 
 # Lets functions search for particular information in a given line and
 # extract it, given a line type
@@ -104,7 +231,7 @@ queries = {
     'turn and river': re.compile(r'\[.*\]\s\[(\S*)\]'),
     'result': re.compile(r'Total\spot\s\$([\d\.]*).*Rake\s\$([\d\.]*)'),
     'winner': re.compile(r'(.*)\scollected'),
-    'player hand': re.compile(r'(.*):\sshows\s\[(\S*)\s(\S*)\]')
+    'player hand': re.compile(r'.*:\sshows\s\[(\S*)\s(\S*)\]')
 }
 
 # Determines the flow of the scanning. If I know I am on this line,
@@ -205,6 +332,8 @@ def get_action(m, line_type, line):
     if action == 'posts' and not g.turns:
         t = turn()
         g.add_turn(t)
+    print(line)
+    print(bet)
     t = g.recent_turn()
     t.add_move(player, action, bet)
     g.set_current_turn(t)
@@ -313,35 +442,12 @@ def parse_hand_history(hand_history_file):
     prev_line_type = None
     with open(hand_history_file, 'r') as hand_history:
         for line in hand_history:
-            print(line)
             line_type, line_match = get_line_type(prev_line_type, line)
             if line_match:
                 m, line_type = line_action[line_type](m, line_type, line)
             prev_line_type = line_type
-            # if len(k.games) > 999:
-            #     m.export_games_to_csv(output_file)
+            if len(m.games) > 100:
+                m.export_games_to_csv()
     return m
 
 k = parse_hand_history('handHistorySmithy.txt')
-
-# print(k.game_type)
-# print(k.bet_type)
-# print(k.blind)
-#
-# for game in k.games:
-#     print(game.winner)
-#     print(game.game_num)
-#     print(game.button)
-#     print(game.time)
-#     print(game.rake)
-#     print(game.pot)
-#
-#     for turn in game.turns:
-#         print(turn.public_cards)
-#         for move in turn.moves:
-#             print(move)
-#
-#     for player in game.players:
-#         print(player.name)
-#         print(player.private_cards)
-#         print(player.money)
