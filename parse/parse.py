@@ -120,35 +120,29 @@ class matches:
                     hasCards = False
                     break
             if hasCards:
-                player_dic = {}
                 for p in g.players:
-                    player_dic[p.name] = [p.private_cards, 0, p.money]
+                    for c in p.private_cards:
+                        write_card(c, filename)
+                    write_bet(p.money, filename)
+                t_index = 0
                 for t in g.turns:
-                    p_c = t.public_cards
+                    if t_index != 0:
+                        p_c = list(set(t.public_cards) - set(g.turns[t_index - 1].public_cards))
+                    else:
+                        p_c = t.public_cards
+                    t_index = t_index + 1
+                    for c in p_c:
+                        write_card(c, filename)
                     for m in t.moves:
-                        p = m[0]
                         a = m[1]
                         if m[2] == None:
                             b = 0
                         else:
                             b = m[2]
-                        for c in p_c:
-                            write_card(c, filename)
-                        for playa in player_dic:
-                            index = 0
-                            for entry in player_dic[playa]:
-                                if index == 0:
-                                    for c in entry:
-                                        write_card(c, filename)
-                                else:
-                                    write_bet(entry, filename)
-                                index = index + 1
                         write_action(a, filename)
                         write_bet(b, filename)
-                        with open(filename, 'a') as f:
-                            f.write('\n')
-                        player_dic[p][1] = player_dic[p][1] + b
-                        player_dic[p][2] = player_dic[p][2] - b
+                with open(filename, 'a') as f:
+                    f.write('\n')
         self.games = [self.games[-1]]
 """This class holds all the data for a given game"""
 class game:
@@ -231,7 +225,7 @@ queries = {
     'turn and river': re.compile(r'\[.*\]\s\[(\S*)\]'),
     'result': re.compile(r'Total\spot\s\$([\d\.]*).*Rake\s\$([\d\.]*)'),
     'winner': re.compile(r'(.*)\scollected'),
-    'player hand': re.compile(r'.*:\sshows\s\[(\S*)\s(\S*)\]')
+    'player hand': re.compile(r'(.*):\sshows\s\[(\S*)\s(\S*)\]'),
 }
 
 # Determines the flow of the scanning. If I know I am on this line,
@@ -253,20 +247,20 @@ next_line_type = {
     'result': ['game']
 }
 
-find_action = re.compile(r'\S*:\s\w*\s')
+find_action = re.compile(r'.*:\s\w*')
 
 # Dictionary to check whether a line is of a certain type
 line_types = {
     'game': re.compile('PokerStars Hand'),
     'player': re.compile(r'in\schips'),
     'post action': re.compile(r'\S*: posts \w* blind'),
-    'hole': re.compile('HOLE CARDS'),
+    'hole': re.compile(r'\*{3}\sHOLE CARDS\s\*{3}'),
     'hole action': find_action,
-    'flop': re.compile('FLOP'),
+    'flop': re.compile(r'\*{3}\sFLOP\s\*{3}'),
     'flop action': find_action,
-    'turn': re.compile('TURN'),
+    'turn': re.compile(r'\*{3}\sTURN\s\*{3}'),
     'turn action': find_action,
-    'river': re.compile('RIVER'),
+    'river': re.compile(r'\*{3}\sRIVER\s\*{3}'),
     'river action': find_action,
     'hand reveal': re.compile(r'\S*:\sshows'),
     'winner': re.compile(r'\scollected\s'),
@@ -318,26 +312,29 @@ def get_action(m, line_type, line):
     g = m.get_current_game()
     q = queries['action']
     match = q.search(line)
-    player = match.group(1)
-    action = match.group(2)
+    a = True
+    if match:
+        player = match.group(1)
+        action = match.group(2)
     q = queries['bet']
     match = q.search(line)
     if match:
         bet = float(match.group(1))
     elif 'check' in line:
-        bet = 0
+            bet = 0
     elif 'fold' in line:
         bet = None
         line_type = 'hand reveal'
+    else:
+        a = False
     if action == 'posts' and not g.turns:
         t = turn()
         g.add_turn(t)
-    print(line)
-    print(bet)
-    t = g.recent_turn()
-    t.add_move(player, action, bet)
-    g.set_current_turn(t)
-    m.set_current_game(g)
+    if a:
+        t = g.recent_turn()
+        t.add_move(player, action, bet)
+        g.set_current_turn(t)
+        m.set_current_game(g)
     return m, line_type
 
 """Creates a new turn and adds cards to that turn when applicable"""
@@ -349,17 +346,23 @@ def new_phase(m, line_type, line):
     if line_type == 'flop':
         q = queries['flop']
         match = q.search(line)
-        c1 = match.group(1)
-        c2 = match.group(2)
-        c3 = match.group(3)
-        cards = [c1, c2, c3]
-        t.add_public_cards(cards)
+        if match:
+            c1 = match.group(1)
+            c2 = match.group(2)
+            c3 = match.group(3)
+            cards = [c1, c2, c3]
+            t.add_public_cards(cards)
+        else:
+            print(line)
     if line_type == 'turn' or line_type == 'river':
         q = queries['turn and river']
         match = q.search(line)
-        c1 = match.group(1)
-        cards = [c1]
-        t.add_public_cards(cards)
+        if match:
+            c1 = match.group(1)
+            cards = [c1]
+            t.add_public_cards(cards)
+        else:
+            print(line)
     g.add_turn(t)
     m.set_current_game(g)
     return m, line_type
@@ -369,9 +372,12 @@ def get_player_hand(m, line_type, line):
     g = m.get_current_game()
     q = queries['player hand']
     match = q.search(line)
-    cards = [match.group(1), match.group(2)]
-    for p in g.players:
-        p.add_private_cards(cards)
+    if match:
+        pn = match.group(1)
+        cards = [match.group(2), match.group(3)]
+        for p in g.players:
+            if p.name == pn:
+                p.add_private_cards(cards)
     m.set_current_game(g)
     return m, line_type
 
@@ -412,8 +418,13 @@ def get_line_type(prev_line_type, line):
             pattern = line_types[line_type]
             match = pattern.search(line)
             if match:
-                current_line_type = line_type
-                line_match = True
+                if 'action' in line_type and 'collected' in line:
+                    pass
+                if 'action' in line_type and 'hand' in line:
+                    pass
+                else:
+                    current_line_type = line_type
+                    line_match = True
     return (current_line_type, line_match)
 
 # A dictionary of functions to run based on the current line type
