@@ -142,7 +142,7 @@ class matches:
                         write_action(a, filename)
                         write_bet(b, filename)
                 with open(filename, 'a') as f:
-                    f.write('\n')
+                    f.write('-1,\n')
         self.games = [self.games[-1]]
 """This class holds all the data for a given game"""
 class game:
@@ -282,9 +282,12 @@ def get_game(m, line_type, line):
     game_num = match.group(1)
     q = queries['game time']
     match = q.search(line)
-    game_time = match.group(1)
-    g = game(game_num, game_time)
-    m.add_game(g)
+    if match:
+        game_time = match.group(1)
+        g = game(game_num, game_time)
+        m.add_game(g)
+    else:
+        print(line)
     return m, line_type
 
 """Creates a new player based on line information. If the player is
@@ -294,13 +297,16 @@ def get_player(m, line_type, line):
     g = m.get_current_game()
     q = queries['player']
     match = q.search(line)
-    name = match.group(1)
-    money = float(match.group(2))
-    p = player(name, money)
-    g.add_player(p)
-    if g.first_player():
-        g.set_button(p.name)
-    m.set_current_game(g)
+    if match:
+        name = match.group(1)
+        money = float(match.group(2))
+        p = player(name, money)
+        g.add_player(p)
+        if g.first_player():
+            g.set_button(p.name)
+        m.set_current_game(g)
+    else:
+        print(line)
     return m, line_type
 
 """Adds a new move to an action using the player name, action and
@@ -316,6 +322,8 @@ def get_action(m, line_type, line):
     if match:
         player = match.group(1)
         action = match.group(2)
+    else:
+        print(line)
     q = queries['bet']
     match = q.search(line)
     if match:
@@ -378,7 +386,9 @@ def get_player_hand(m, line_type, line):
         for p in g.players:
             if p.name == pn:
                 p.add_private_cards(cards)
-    m.set_current_game(g)
+                m.set_current_game(g)
+    else:
+        print(line)
     return m, line_type
 
 """Determines the winner of the game"""
@@ -396,11 +406,14 @@ def get_result(m, line_type, line):
     g = m.get_current_game()
     q = queries['result']
     match = q.search(line)
-    pot = match.group(1)
-    rake = match.group(2)
-    g.pot = float(pot)
-    g.rake = float(rake)
-    m.set_current_game(g)
+    if match:
+        pot = match.group(1)
+        rake = match.group(2)
+        g.pot = float(pot)
+        g.rake = float(rake)
+        m.set_current_game(g)
+    else:
+        print(line)
     return m, line_type
 
 """Checks to see if this line one of the types based on the next_line_type
